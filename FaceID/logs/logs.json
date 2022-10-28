@@ -1,0 +1,3750 @@
+{
+    "prediction": [
+        {
+            "Reading image time": " 10.220050811767578 ms",
+            "Aligning face time": " 0.5478858947753906 ms",
+            "Prediction time": " 141.08586311340332 ms",
+            "Top5": [
+                "Thanh Thuy with 0.7776534557342529 score",
+                "Hung with 0.7852128148078918 score",
+                "Thanh Thuy with 0.8569337129592896 score",
+                "Hung with 0.9165045022964478 score"
+            ],
+            "Face search time": " 0.30040740966796875 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936709
+        },
+        {
+            "Reading image time": " 6.8111419677734375 ms",
+            "Aligning face time": " 0.19550323486328125 ms",
+            "Prediction time": " 181.17690086364746 ms",
+            "Top5": [
+                "Thanh Thuy with 0.7731279730796814 score",
+                "Hung with 0.8429199457168579 score",
+                "Thanh Thuy with 0.8803931474685669 score",
+                "Hung with 0.9047982096672058 score"
+            ],
+            "Face search time": " 0.2856254577636719 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936709
+        },
+        {
+            "Reading image time": " 6.9217681884765625 ms",
+            "Aligning face time": " 0.13518333435058594 ms",
+            "Prediction time": " 89.7679328918457 ms",
+            "Top5": [
+                "Hung with 0.8000566959381104 score",
+                "Thanh Thuy with 0.8291933536529541 score",
+                "Hung with 0.8385086059570312 score",
+                "Hung with 0.8778036236763 score"
+            ],
+            "Face search time": " 0.5972385406494141 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936709
+        },
+        {
+            "Reading image time": " 11.162996292114258 ms",
+            "Aligning face time": " 0.12755393981933594 ms",
+            "Prediction time": " 79.15759086608887 ms",
+            "Top5": [
+                "Hung with 0.7555583715438843 score",
+                "Thanh Thuy with 0.7646390199661255 score",
+                "Thanh Thuy with 0.8267301917076111 score",
+                "Hung with 0.9493093490600586 score"
+            ],
+            "Face search time": " 0.15997886657714844 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936709
+        },
+        {
+            "Reading image time": " 6.991386413574219 ms",
+            "Aligning face time": " 0.1647472381591797 ms",
+            "Prediction time": " 75.96325874328613 ms",
+            "Top5": [
+                "Hung with 0.7464132308959961 score",
+                "Thanh Thuy with 0.7764854431152344 score",
+                "Thanh Thuy with 0.8365505337715149 score",
+                "Hung with 0.9526945352554321 score"
+            ],
+            "Face search time": " 0.18286705017089844 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936709
+        },
+        {
+            "Reading image time": " 10.595321655273438 ms",
+            "Aligning face time": " 0.15687942504882812 ms",
+            "Prediction time": " 75.5915641784668 ms",
+            "Top5": [
+                "Hung with 0.7456547021865845 score",
+                "Thanh Thuy with 0.8060741424560547 score",
+                "Thanh Thuy with 0.8159458041191101 score",
+                "Hung with 0.9792333841323853 score"
+            ],
+            "Face search time": " 0.1461505889892578 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936709
+        },
+        {
+            "Reading image time": " 8.937597274780273 ms",
+            "Aligning face time": " 0.12993812561035156 ms",
+            "Prediction time": " 75.9267807006836 ms",
+            "Top5": [
+                "Hung with 0.7747600674629211 score",
+                "Thanh Thuy with 0.8664609789848328 score",
+                "Thanh Thuy with 0.8678157329559326 score",
+                "Hung with 0.9779226779937744 score"
+            ],
+            "Face search time": " 0.186920166015625 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936709
+        },
+        {
+            "Reading image time": " 10.601282119750977 ms",
+            "Aligning face time": " 0.14400482177734375 ms",
+            "Prediction time": " 76.07579231262207 ms",
+            "Top5": [
+                "Hung with 0.7686302661895752 score",
+                "Thanh Thuy with 0.8203755021095276 score",
+                "Thanh Thuy with 0.8555110096931458 score",
+                "Hung with 0.9701778292655945 score"
+            ],
+            "Face search time": " 0.20551681518554688 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936709
+        },
+        {
+            "Reading image time": " 7.041454315185547 ms",
+            "Aligning face time": " 0.148773193359375 ms",
+            "Prediction time": " 76.8730640411377 ms",
+            "Top5": [
+                "Hung with 0.7495375871658325 score",
+                "Thanh Thuy with 0.8183082342147827 score",
+                "Thanh Thuy with 0.9292636513710022 score",
+                "Hung with 0.9965443015098572 score"
+            ],
+            "Face search time": " 0.17833709716796875 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936710
+        },
+        {
+            "Reading image time": " 10.805130004882812 ms",
+            "Aligning face time": " 0.15163421630859375 ms",
+            "Prediction time": " 76.28202438354492 ms",
+            "Top5": [
+                "Hung with 0.7887279391288757 score",
+                "Thanh Thuy with 0.8277420997619629 score",
+                "Thanh Thuy with 0.8812695145606995 score",
+                "Hung with 0.961305558681488 score"
+            ],
+            "Face search time": " 0.1556873321533203 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936710
+        },
+        {
+            "Reading image time": " 10.630607604980469 ms",
+            "Aligning face time": " 0.16689300537109375 ms",
+            "Prediction time": " 75.50621032714844 ms",
+            "Top5": [
+                "Hung with 0.8303411602973938 score",
+                "Thanh Thuy with 0.845284640789032 score",
+                "Thanh Thuy with 0.8598777055740356 score",
+                "Hung with 0.928646981716156 score"
+            ],
+            "Face search time": " 0.14400482177734375 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936710
+        },
+        {
+            "Reading image time": " 11.214494705200195 ms",
+            "Aligning face time": " 0.14781951904296875 ms",
+            "Prediction time": " 76.0648250579834 ms",
+            "Top5": [
+                "Hung with 0.8220929503440857 score",
+                "Thanh Thuy with 0.8450061082839966 score",
+                "Thanh Thuy with 0.8581425547599792 score",
+                "Hung with 0.9567662477493286 score"
+            ],
+            "Face search time": " 0.1766681671142578 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936710
+        },
+        {
+            "Reading image time": " 10.829925537109375 ms",
+            "Aligning face time": " 0.2105236053466797 ms",
+            "Prediction time": " 76.3998031616211 ms",
+            "Top5": [
+                "Hung with 0.8191920518875122 score",
+                "Thanh Thuy with 0.8358618021011353 score",
+                "Thanh Thuy with 0.8492498397827148 score",
+                "Hung with 0.9369919896125793 score"
+            ],
+            "Face search time": " 0.17762184143066406 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936710
+        },
+        {
+            "Reading image time": " 13.701438903808594 ms",
+            "Aligning face time": " 0.15497207641601562 ms",
+            "Prediction time": " 83.48774909973145 ms",
+            "Top5": [
+                "Thanh Thuy with 0.7839977741241455 score",
+                "Hung with 0.8291953802108765 score",
+                "Thanh Thuy with 0.8633823394775391 score",
+                "Hung with 0.9174365401268005 score"
+            ],
+            "Face search time": " 0.20599365234375 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936710
+        },
+        {
+            "Reading image time": " 8.22901725769043 ms",
+            "Aligning face time": " 0.1709461212158203 ms",
+            "Prediction time": " 82.64279365539551 ms",
+            "Top5": [
+                "Thanh Thuy with 0.7398274540901184 score",
+                "Thanh Thuy with 0.8644874691963196 score",
+                "Hung with 0.8666172623634338 score",
+                "Hung with 0.9024118185043335 score"
+            ],
+            "Face search time": " 0.21457672119140625 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936710
+        },
+        {
+            "Reading image time": " 4.3182373046875 ms",
+            "Aligning face time": " 0.14781951904296875 ms",
+            "Prediction time": " 83.12582969665527 ms",
+            "Top5": [
+                "Thanh Thuy with 0.8025134801864624 score",
+                "Hung with 0.8447378873825073 score",
+                "Hung with 0.8693262338638306 score",
+                "Hung with 0.8832802772521973 score"
+            ],
+            "Face search time": " 0.24628639221191406 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936710
+        },
+        {
+            "Reading image time": " 4.549980163574219 ms",
+            "Aligning face time": " 0.12564659118652344 ms",
+            "Prediction time": " 81.68864250183105 ms",
+            "Top5": [
+                "Thanh Thuy with 0.8458717465400696 score",
+                "Hung with 0.8494837880134583 score",
+                "Hung with 0.8686800003051758 score",
+                "Hung with 0.9144694209098816 score"
+            ],
+            "Face search time": " 0.21505355834960938 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936710
+        },
+        {
+            "Reading image time": " 6.3457489013671875 ms",
+            "Aligning face time": " 0.1327991485595703 ms",
+            "Prediction time": " 78.84335517883301 ms",
+            "Top5": [
+                "Hung with 0.7850006818771362 score",
+                "Thanh Thuy with 0.8116401433944702 score",
+                "Hung with 0.8168764114379883 score",
+                "Hung with 0.9145981669425964 score"
+            ],
+            "Face search time": " 0.213623046875 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936710
+        },
+        {
+            "Reading image time": " 6.322622299194336 ms",
+            "Aligning face time": " 0.13518333435058594 ms",
+            "Prediction time": " 80.6422233581543 ms",
+            "Top5": [
+                "Thanh Thuy with 0.839680552482605 score",
+                "Hung with 0.847435474395752 score",
+                "Hung with 0.8481553196907043 score",
+                "Hung with 0.914782702922821 score"
+            ],
+            "Face search time": " 0.17642974853515625 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936710
+        },
+        {
+            "Reading image time": " 7.890939712524414 ms",
+            "Aligning face time": " 0.12326240539550781 ms",
+            "Prediction time": " 75.96492767333984 ms",
+            "Top5": [
+                "Thanh Thuy with 0.8504013419151306 score",
+                "Hung with 0.8715706467628479 score",
+                "Hung with 0.8819864988327026 score",
+                "Hung with 0.908115804195404 score"
+            ],
+            "Face search time": " 0.17499923706054688 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936711
+        },
+        {
+            "Reading image time": " 6.994485855102539 ms",
+            "Aligning face time": " 0.14519691467285156 ms",
+            "Prediction time": " 76.19023323059082 ms",
+            "Top5": [
+                "Thanh Thuy with 0.8052852153778076 score",
+                "Hung with 0.8975408673286438 score",
+                "Hung with 0.9102580547332764 score",
+                "Hung with 0.9214352369308472 score"
+            ],
+            "Face search time": " 0.18262863159179688 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936711
+        },
+        {
+            "Reading image time": " 6.832599639892578 ms",
+            "Aligning face time": " 0.1785755157470703 ms",
+            "Prediction time": " 78.89962196350098 ms",
+            "Top5": [
+                "Hung with 0.789425253868103 score",
+                "Thanh Thuy with 0.806808590888977 score",
+                "Thanh Thuy with 0.8286802172660828 score",
+                "Hung with 0.9833560585975647 score"
+            ],
+            "Face search time": " 0.20647048950195312 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936711
+        },
+        {
+            "Reading image time": " 6.588220596313477 ms",
+            "Aligning face time": " 0.45013427734375 ms",
+            "Prediction time": " 79.71358299255371 ms",
+            "Top5": [
+                "Thanh Thuy with 0.7971110343933105 score",
+                "Hung with 0.7983357310295105 score",
+                "Thanh Thuy with 0.8328525424003601 score",
+                "Hung with 0.9486756324768066 score"
+            ],
+            "Face search time": " 0.18739700317382812 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936711
+        },
+        {
+            "Reading image time": " 8.615970611572266 ms",
+            "Aligning face time": " 0.16307830810546875 ms",
+            "Prediction time": " 82.29255676269531 ms",
+            "Top5": [
+                "Hung with 0.7866262793540955 score",
+                "Thanh Thuy with 0.8105746507644653 score",
+                "Thanh Thuy with 0.8256560564041138 score",
+                "Hung with 0.9563217163085938 score"
+            ],
+            "Face search time": " 0.19788742065429688 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936711
+        },
+        {
+            "Reading image time": " 8.712530136108398 ms",
+            "Aligning face time": " 0.118255615234375 ms",
+            "Prediction time": " 84.84554290771484 ms",
+            "Top5": [
+                "Hung with 0.7555583715438843 score",
+                "Thanh Thuy with 0.7646390199661255 score",
+                "Thanh Thuy with 0.8267301917076111 score",
+                "Hung with 0.9493093490600586 score"
+            ],
+            "Face search time": " 0.20551681518554688 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936711
+        },
+        {
+            "Reading image time": " 6.473779678344727 ms",
+            "Aligning face time": " 0.10848045349121094 ms",
+            "Prediction time": " 82.60083198547363 ms",
+            "Top5": [
+                "Thanh Thuy with 0.7378278374671936 score",
+                "Hung with 0.8418503999710083 score",
+                "Thanh Thuy with 0.8736476302146912 score",
+                "Hung with 0.8956459164619446 score"
+            ],
+            "Face search time": " 0.16546249389648438 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936711
+        },
+        {
+            "Reading image time": " 6.960391998291016 ms",
+            "Aligning face time": " 0.14066696166992188 ms",
+            "Prediction time": " 75.2260684967041 ms",
+            "Top5": [
+                "Hung with 0.8444864749908447 score",
+                "Thanh Thuy with 0.8523349165916443 score",
+                "Hung with 0.8776185512542725 score",
+                "Hung with 0.8956202864646912 score"
+            ],
+            "Face search time": " 0.17881393432617188 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936711
+        },
+        {
+            "Reading image time": " 7.890462875366211 ms",
+            "Aligning face time": " 0.12731552124023438 ms",
+            "Prediction time": " 75.38270950317383 ms",
+            "Top5": [
+                "Thanh Thuy with 0.7731279730796814 score",
+                "Hung with 0.8429199457168579 score",
+                "Thanh Thuy with 0.8803931474685669 score",
+                "Hung with 0.9047982096672058 score"
+            ],
+            "Face search time": " 0.18358230590820312 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936711
+        },
+        {
+            "Reading image time": " 10.059595108032227 ms",
+            "Aligning face time": " 0.12803077697753906 ms",
+            "Prediction time": " 75.42562484741211 ms",
+            "Top5": [
+                "Thanh Thuy with 0.7946177124977112 score",
+                "Hung with 0.8517532348632812 score",
+                "Hung with 0.8992315530776978 score",
+                "Thanh Thuy with 0.9293020963668823 score"
+            ],
+            "Face search time": " 0.17404556274414062 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936711
+        },
+        {
+            "Reading image time": " 7.965803146362305 ms",
+            "Aligning face time": " 0.12993812561035156 ms",
+            "Prediction time": " 76.2331485748291 ms",
+            "Top5": [
+                "Hung with 0.8401145935058594 score",
+                "Thanh Thuy with 0.8468161821365356 score",
+                "Hung with 0.8693267703056335 score",
+                "Hung with 0.900638222694397 score"
+            ],
+            "Face search time": " 0.18310546875 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936711
+        },
+        {
+            "Reading image time": " 7.862329483032227 ms",
+            "Aligning face time": " 0.12230873107910156 ms",
+            "Prediction time": " 76.57170295715332 ms",
+            "Top5": [
+                "Thanh Thuy with 0.84032142162323 score",
+                "Hung with 0.8405615091323853 score",
+                "Hung with 0.8511725664138794 score",
+                "Hung with 0.9195101857185364 score"
+            ],
+            "Face search time": " 0.17380714416503906 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936712
+        },
+        {
+            "Reading image time": " 8.548259735107422 ms",
+            "Aligning face time": " 0.12612342834472656 ms",
+            "Prediction time": " 75.81543922424316 ms",
+            "Top5": [
+                "Thanh Thuy with 0.7942965626716614 score",
+                "Thanh Thuy with 0.8481937050819397 score",
+                "Hung with 0.8555148243904114 score",
+                "Hung with 0.9177789092063904 score"
+            ],
+            "Face search time": " 0.21910667419433594 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936712
+        },
+        {
+            "Reading image time": " 8.195877075195312 ms",
+            "Aligning face time": " 0.1342296600341797 ms",
+            "Prediction time": " 76.35807991027832 ms",
+            "Top5": [
+                "Thanh Thuy with 0.7595073580741882 score",
+                "Hung with 0.8280773162841797 score",
+                "Hung with 0.8323179483413696 score",
+                "Hung with 0.8387994170188904 score"
+            ],
+            "Face search time": " 0.22482872009277344 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936712
+        },
+        {
+            "Reading image time": " 6.58869743347168 ms",
+            "Aligning face time": " 0.17333030700683594 ms",
+            "Prediction time": " 85.58273315429688 ms",
+            "Top5": [
+                "Thanh Thuy with 0.7646155953407288 score",
+                "Hung with 0.7923628091812134 score",
+                "Hung with 0.8170150518417358 score",
+                "Hung with 0.8563666939735413 score"
+            ],
+            "Face search time": " 0.17023086547851562 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936712
+        },
+        {
+            "Reading image time": " 9.423494338989258 ms",
+            "Aligning face time": " 0.16307830810546875 ms",
+            "Prediction time": " 82.84997940063477 ms",
+            "Top5": [
+                "Thanh Thuy with 0.8171653747558594 score",
+                "Hung with 0.8411740064620972 score",
+                "Thanh Thuy with 0.8522909283638 score",
+                "Hung with 0.9694607257843018 score"
+            ],
+            "Face search time": " 0.21791458129882812 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936712
+        },
+        {
+            "Reading image time": " 6.363153457641602 ms",
+            "Aligning face time": " 0.12063980102539062 ms",
+            "Prediction time": " 82.32855796813965 ms",
+            "Top5": [
+                "Hung with 0.8000566959381104 score",
+                "Thanh Thuy with 0.8291933536529541 score",
+                "Hung with 0.8385086059570312 score",
+                "Hung with 0.8778036236763 score"
+            ],
+            "Face search time": " 0.21648406982421875 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936712
+        },
+        {
+            "Reading image time": " 6.078958511352539 ms",
+            "Aligning face time": " 0.1423358917236328 ms",
+            "Prediction time": " 76.33256912231445 ms",
+            "Top5": [
+                "Thanh Thuy with 0.7884255647659302 score",
+                "Hung with 0.8849645853042603 score",
+                "Hung with 0.9049110412597656 score",
+                "Thanh Thuy with 0.9185603260993958 score"
+            ],
+            "Face search time": " 0.186920166015625 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936712
+        },
+        {
+            "Reading image time": " 6.606101989746094 ms",
+            "Aligning face time": " 0.15544891357421875 ms",
+            "Prediction time": " 75.75011253356934 ms",
+            "Top5": [
+                "Hung with 0.7727949619293213 score",
+                "Thanh Thuy with 0.8067517280578613 score",
+                "Thanh Thuy with 0.8146402835845947 score",
+                "Hung with 0.9477532505989075 score"
+            ],
+            "Face search time": " 0.18072128295898438 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936712
+        },
+        {
+            "Reading image time": " 4.067420959472656 ms",
+            "Aligning face time": " 0.14209747314453125 ms",
+            "Prediction time": " 76.74145698547363 ms",
+            "Top5": [
+                "Thanh Thuy with 0.7775052189826965 score",
+                "Hung with 0.865424633026123 score",
+                "Hung with 0.8961488008499146 score",
+                "Thanh Thuy with 0.9050877690315247 score"
+            ],
+            "Face search time": " 0.14495849609375 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936712
+        },
+        {
+            "Reading image time": " 4.783391952514648 ms",
+            "Aligning face time": " 0.1800060272216797 ms",
+            "Prediction time": " 79.27775382995605 ms",
+            "Top5": [
+                "Hung with 0.7900106310844421 score",
+                "Thanh Thuy with 0.8198810815811157 score",
+                "Thanh Thuy with 0.8339397311210632 score",
+                "Hung with 0.9599432349205017 score"
+            ],
+            "Face search time": " 0.16498565673828125 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936712
+        },
+        {
+            "Reading image time": " 4.2743682861328125 ms",
+            "Aligning face time": " 0.12373924255371094 ms",
+            "Prediction time": " 77.18324661254883 ms",
+            "Top5": [
+                "Thanh Thuy with 0.7393816709518433 score",
+                "Hung with 0.7967627048492432 score",
+                "Hung with 0.8127784729003906 score",
+                "Hung with 0.8266282081604004 score"
+            ],
+            "Face search time": " 0.16498565673828125 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936712
+        },
+        {
+            "Reading image time": " 4.2266845703125 ms",
+            "Aligning face time": " 0.1671314239501953 ms",
+            "Prediction time": " 76.89189910888672 ms",
+            "Top5": [
+                "Thanh Thuy with 0.7826515436172485 score",
+                "Thanh Thuy with 0.8411940336227417 score",
+                "Hung with 0.843532383441925 score",
+                "Hung with 0.8907695412635803 score"
+            ],
+            "Face search time": " 0.1804828643798828 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936713
+        },
+        {
+            "Reading image time": " 4.0721893310546875 ms",
+            "Aligning face time": " 0.13780593872070312 ms",
+            "Prediction time": " 77.08120346069336 ms",
+            "Top5": [
+                "Thanh Thuy with 0.7456851005554199 score",
+                "Hung with 0.8443165421485901 score",
+                "Thanh Thuy with 0.863940417766571 score",
+                "Hung with 0.8812432289123535 score"
+            ],
+            "Face search time": " 0.1773834228515625 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936713
+        },
+        {
+            "Reading image time": " 4.997491836547852 ms",
+            "Aligning face time": " 0.17642974853515625 ms",
+            "Prediction time": " 76.7369270324707 ms",
+            "Top5": [
+                "Thanh Thuy with 0.8147823810577393 score",
+                "Hung with 0.8413760662078857 score",
+                "Thanh Thuy with 0.8426432609558105 score",
+                "Hung with 0.968143105506897 score"
+            ],
+            "Face search time": " 0.14472007751464844 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936713
+        },
+        {
+            "Reading image time": " 6.430625915527344 ms",
+            "Aligning face time": " 0.15306472778320312 ms",
+            "Prediction time": " 77.51965522766113 ms",
+            "Top5": [
+                "Hung with 0.7464132308959961 score",
+                "Thanh Thuy with 0.7764854431152344 score",
+                "Thanh Thuy with 0.8365505337715149 score",
+                "Hung with 0.9526945352554321 score"
+            ],
+            "Face search time": " 0.14495849609375 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936713
+        },
+        {
+            "Reading image time": " 6.3381195068359375 ms",
+            "Aligning face time": " 0.12993812561035156 ms",
+            "Prediction time": " 78.73654365539551 ms",
+            "Top5": [
+                "Hung with 0.8444864749908447 score",
+                "Thanh Thuy with 0.8523349165916443 score",
+                "Hung with 0.8776185512542725 score",
+                "Hung with 0.8956202864646912 score"
+            ],
+            "Face search time": " 0.14352798461914062 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936713
+        },
+        {
+            "Reading image time": " 9.052276611328125 ms",
+            "Aligning face time": " 0.13136863708496094 ms",
+            "Prediction time": " 77.38876342773438 ms",
+            "Top5": [
+                "Thanh Thuy with 0.7946177124977112 score",
+                "Hung with 0.8517532348632812 score",
+                "Hung with 0.8992315530776978 score",
+                "Thanh Thuy with 0.9293020963668823 score"
+            ],
+            "Face search time": " 0.14519691467285156 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936713
+        },
+        {
+            "Reading image time": " 6.517171859741211 ms",
+            "Aligning face time": " 0.16021728515625 ms",
+            "Prediction time": " 76.85112953186035 ms",
+            "Top5": [
+                "Thanh Thuy with 0.7714619636535645 score",
+                "Thanh Thuy with 0.815381646156311 score",
+                "Hung with 0.8639622926712036 score",
+                "Hung with 0.8850055932998657 score"
+            ],
+            "Face search time": " 0.20575523376464844 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936713
+        },
+        {
+            "Reading image time": " 6.378412246704102 ms",
+            "Aligning face time": " 0.1659393310546875 ms",
+            "Prediction time": " 75.83379745483398 ms",
+            "Top5": [
+                "Thanh Thuy with 0.7602348923683167 score",
+                "Hung with 0.806636393070221 score",
+                "Hung with 0.8170449733734131 score",
+                "Hung with 0.8378733992576599 score"
+            ],
+            "Face search time": " 0.1780986785888672 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936713
+        },
+        {
+            "Reading image time": " 6.432294845581055 ms",
+            "Aligning face time": " 0.12087821960449219 ms",
+            "Prediction time": " 76.21526718139648 ms",
+            "Top5": [
+                "Hung with 0.7456547021865845 score",
+                "Thanh Thuy with 0.8060741424560547 score",
+                "Thanh Thuy with 0.8159458041191101 score",
+                "Hung with 0.9792333841323853 score"
+            ],
+            "Face search time": " 0.1571178436279297 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936713
+        },
+        {
+            "Reading image time": " 6.9866180419921875 ms",
+            "Aligning face time": " 0.18525123596191406 ms",
+            "Prediction time": " 76.17735862731934 ms",
+            "Top5": [
+                "Hung with 0.7858389019966125 score",
+                "Thanh Thuy with 0.8266787528991699 score",
+                "Thanh Thuy with 0.8424831032752991 score",
+                "Hung with 0.9726661443710327 score"
+            ],
+            "Face search time": " 0.17261505126953125 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936713
+        },
+        {
+            "Reading image time": " 6.298065185546875 ms",
+            "Aligning face time": " 0.1327991485595703 ms",
+            "Prediction time": " 76.17497444152832 ms",
+            "Top5": [
+                "Thanh Thuy with 0.7378278374671936 score",
+                "Hung with 0.8418503999710083 score",
+                "Thanh Thuy with 0.8736476302146912 score",
+                "Hung with 0.8956459164619446 score"
+            ],
+            "Face search time": " 0.1633167266845703 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936713
+        },
+        {
+            "Reading image time": " 6.464719772338867 ms",
+            "Aligning face time": " 0.1399517059326172 ms",
+            "Prediction time": " 78.64642143249512 ms",
+            "Top5": [
+                "Thanh Thuy with 0.7513800263404846 score",
+                "Thanh Thuy with 0.8395335674285889 score",
+                "Hung with 0.8789705038070679 score",
+                "Hung with 0.914946436882019 score"
+            ],
+            "Face search time": " 0.19431114196777344 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936714
+        },
+        {
+            "Reading image time": " 6.878137588500977 ms",
+            "Aligning face time": " 0.1742839813232422 ms",
+            "Prediction time": " 77.2256851196289 ms",
+            "Top5": [
+                "Hung with 0.7858389019966125 score",
+                "Thanh Thuy with 0.8266787528991699 score",
+                "Thanh Thuy with 0.8424831032752991 score",
+                "Hung with 0.9726661443710327 score"
+            ],
+            "Face search time": " 0.17333030700683594 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936714
+        },
+        {
+            "Reading image time": " 4.1637420654296875 ms",
+            "Aligning face time": " 0.1671314239501953 ms",
+            "Prediction time": " 78.33456993103027 ms",
+            "Top5": [
+                "Thanh Thuy with 0.7489442825317383 score",
+                "Hung with 0.8806020617485046 score",
+                "Thanh Thuy with 0.884839653968811 score",
+                "Hung with 0.8948986530303955 score"
+            ],
+            "Face search time": " 0.18644332885742188 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936714
+        },
+        {
+            "Reading image time": " 4.705667495727539 ms",
+            "Aligning face time": " 0.17786026000976562 ms",
+            "Prediction time": " 77.50773429870605 ms",
+            "Top5": [
+                "Thanh Thuy with 0.7392714023590088 score",
+                "Hung with 0.7733797430992126 score",
+                "Thanh Thuy with 0.8791344165802002 score",
+                "Hung with 0.9473715424537659 score"
+            ],
+            "Face search time": " 0.1811981201171875 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936714
+        },
+        {
+            "Reading image time": " 4.540205001831055 ms",
+            "Aligning face time": " 0.16570091247558594 ms",
+            "Prediction time": " 77.61907577514648 ms",
+            "Top5": [
+                "Thanh Thuy with 0.7381548881530762 score",
+                "Thanh Thuy with 0.7559159398078918 score",
+                "Hung with 0.8287336230278015 score",
+                "Hung with 0.950083315372467 score"
+            ],
+            "Face search time": " 0.19168853759765625 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936714
+        },
+        {
+            "Reading image time": " 5.954504013061523 ms",
+            "Aligning face time": " 0.3414154052734375 ms",
+            "Prediction time": " 83.09578895568848 ms",
+            "Top5": [
+                "Hung with 0.7900106310844421 score",
+                "Thanh Thuy with 0.8198810815811157 score",
+                "Thanh Thuy with 0.8339397311210632 score",
+                "Hung with 0.9599432349205017 score"
+            ],
+            "Face search time": " 0.18310546875 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936714
+        },
+        {
+            "Reading image time": " 4.432439804077148 ms",
+            "Aligning face time": " 0.15878677368164062 ms",
+            "Prediction time": " 77.03518867492676 ms",
+            "Top5": [
+                "Hung with 0.7727949619293213 score",
+                "Thanh Thuy with 0.8067517280578613 score",
+                "Thanh Thuy with 0.8146402835845947 score",
+                "Hung with 0.9477532505989075 score"
+            ],
+            "Face search time": " 0.14638900756835938 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936714
+        },
+        {
+            "Reading image time": " 5.199432373046875 ms",
+            "Aligning face time": " 0.1671314239501953 ms",
+            "Prediction time": " 76.24530792236328 ms",
+            "Top5": [
+                "Thanh Thuy with 0.8147823810577393 score",
+                "Hung with 0.8413760662078857 score",
+                "Thanh Thuy with 0.8426432609558105 score",
+                "Hung with 0.968143105506897 score"
+            ],
+            "Face search time": " 0.1666545867919922 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936714
+        },
+        {
+            "Reading image time": " 6.962776184082031 ms",
+            "Aligning face time": " 0.16951560974121094 ms",
+            "Prediction time": " 76.18999481201172 ms",
+            "Top5": [
+                "Hung with 0.8401145935058594 score",
+                "Thanh Thuy with 0.8468161821365356 score",
+                "Hung with 0.8693267703056335 score",
+                "Hung with 0.900638222694397 score"
+            ],
+            "Face search time": " 0.17642974853515625 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936714
+        },
+        {
+            "Reading image time": " 5.777120590209961 ms",
+            "Aligning face time": " 0.18358230590820312 ms",
+            "Prediction time": " 75.4854679107666 ms",
+            "Top5": [
+                "Thanh Thuy with 0.84032142162323 score",
+                "Hung with 0.8405615091323853 score",
+                "Hung with 0.8511725664138794 score",
+                "Hung with 0.9195101857185364 score"
+            ],
+            "Face search time": " 0.16927719116210938 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936714
+        },
+        {
+            "Reading image time": " 7.333993911743164 ms",
+            "Aligning face time": " 0.14400482177734375 ms",
+            "Prediction time": " 76.35235786437988 ms",
+            "Top5": [
+                "Thanh Thuy with 0.8052852153778076 score",
+                "Hung with 0.8975408673286438 score",
+                "Hung with 0.9102580547332764 score",
+                "Hung with 0.9214352369308472 score"
+            ],
+            "Face search time": " 0.1678466796875 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936714
+        },
+        {
+            "Reading image time": " 6.176948547363281 ms",
+            "Aligning face time": " 0.1277923583984375 ms",
+            "Prediction time": " 76.98845863342285 ms",
+            "Top5": [
+                "Thanh Thuy with 0.7801448106765747 score",
+                "Thanh Thuy with 0.8940997123718262 score",
+                "Hung with 0.8945851922035217 score",
+                "Hung with 0.9073025584220886 score"
+            ],
+            "Face search time": " 0.16355514526367188 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936715
+        },
+        {
+            "Reading image time": " 8.091926574707031 ms",
+            "Aligning face time": " 0.1289844512939453 ms",
+            "Prediction time": " 76.63655281066895 ms",
+            "Top5": [
+                "Thanh Thuy with 0.7884255647659302 score",
+                "Hung with 0.8849645853042603 score",
+                "Hung with 0.9049110412597656 score",
+                "Thanh Thuy with 0.9185603260993958 score"
+            ],
+            "Face search time": " 0.15091896057128906 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936715
+        },
+        {
+            "Reading image time": " 8.917570114135742 ms",
+            "Aligning face time": " 0.16427040100097656 ms",
+            "Prediction time": " 75.91462135314941 ms",
+            "Top5": [
+                "Thanh Thuy with 0.7198314666748047 score",
+                "Thanh Thuy with 0.7659544944763184 score",
+                "Hung with 0.8184351325035095 score",
+                "Hung with 0.9385097622871399 score"
+            ],
+            "Face search time": " 0.16689300537109375 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666936715
+        },
+        {
+            "Reading image time": " 12.529611587524414 ms",
+            "Aligning face time": " 0.247955322265625 ms",
+            "Prediction time": " 154.54339981079102 ms",
+            "Top5": [
+                "Hung with 0.8433895111083984 score",
+                "Obama with 0.8490687012672424 score",
+                "Hung with 0.8549236059188843 score",
+                "Hung with 0.8736261129379272 score"
+            ],
+            "Face search time": " 0.33354759216308594 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937797
+        },
+        {
+            "Reading image time": " 6.262779235839844 ms",
+            "Aligning face time": " 0.17523765563964844 ms",
+            "Prediction time": " 97.77069091796875 ms",
+            "Top5": [
+                "Hung with 0.8755484223365784 score",
+                "Hung with 0.8873055577278137 score",
+                "Hung with 0.8908671140670776 score",
+                "Son Tung with 0.91106778383255 score"
+            ],
+            "Face search time": " 0.48065185546875 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937797
+        },
+        {
+            "Reading image time": " 5.211830139160156 ms",
+            "Aligning face time": " 0.14543533325195312 ms",
+            "Prediction time": " 83.5261344909668 ms",
+            "Top5": [
+                "Hung with 0.8699029088020325 score",
+                "Hung with 0.8830133676528931 score",
+                "Hung with 0.8845856189727783 score",
+                "Son Tung with 0.8858305811882019 score"
+            ],
+            "Face search time": " 0.2079010009765625 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937797
+        },
+        {
+            "Reading image time": " 4.938602447509766 ms",
+            "Aligning face time": " 0.392913818359375 ms",
+            "Prediction time": " 98.00434112548828 ms",
+            "Top5": [
+                "Hung with 0.8742733001708984 score",
+                "Son Tung with 0.8865822553634644 score",
+                "Hung with 0.8921492099761963 score",
+                "Hung with 0.9023805260658264 score"
+            ],
+            "Face search time": " 0.2377033233642578 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937797
+        },
+        {
+            "Reading image time": " 6.334066390991211 ms",
+            "Aligning face time": " 0.1895427703857422 ms",
+            "Prediction time": " 95.8709716796875 ms",
+            "Top5": [
+                "Son Tung with 0.8390858173370361 score",
+                "Hung with 0.8685898184776306 score",
+                "Son Tung with 0.8931873440742493 score",
+                "Son Tung with 0.8932098150253296 score"
+            ],
+            "Face search time": " 0.21219253540039062 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937797
+        },
+        {
+            "Reading image time": " 10.284423828125 ms",
+            "Aligning face time": " 0.17380714416503906 ms",
+            "Prediction time": " 87.38327026367188 ms",
+            "Top5": [
+                "Son Tung with 0.8562601804733276 score",
+                "Son Tung with 0.8969385027885437 score",
+                "Hung with 0.9091277122497559 score",
+                "Hung with 0.9175514578819275 score"
+            ],
+            "Face search time": " 0.2307891845703125 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937797
+        },
+        {
+            "Reading image time": " 10.092735290527344 ms",
+            "Aligning face time": " 0.21982192993164062 ms",
+            "Prediction time": " 84.89012718200684 ms",
+            "Top5": [
+                "Son Tung with 0.8173550367355347 score",
+                "Son Tung with 0.824364960193634 score",
+                "Obama with 0.8431483507156372 score",
+                "Son Tung with 0.8580682873725891 score"
+            ],
+            "Face search time": " 0.1461505889892578 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937798
+        },
+        {
+            "Reading image time": " 6.064414978027344 ms",
+            "Aligning face time": " 0.14710426330566406 ms",
+            "Prediction time": " 79.82134819030762 ms",
+            "Top5": [
+                "Obama with 0.845416247844696 score",
+                "Son Tung with 0.8660986423492432 score",
+                "Son Tung with 0.8683815598487854 score",
+                "Hung with 0.8746166825294495 score"
+            ],
+            "Face search time": " 0.1480579376220703 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937798
+        },
+        {
+            "Reading image time": " 6.478071212768555 ms",
+            "Aligning face time": " 0.15020370483398438 ms",
+            "Prediction time": " 82.82756805419922 ms",
+            "Top5": [
+                "Son Tung with 0.8423246145248413 score",
+                "Obama with 0.8690980672836304 score",
+                "Hung with 0.8704475164413452 score",
+                "Hung with 0.8844545483589172 score"
+            ],
+            "Face search time": " 0.14519691467285156 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937798
+        },
+        {
+            "Reading image time": " 9.940624237060547 ms",
+            "Aligning face time": " 0.15091896057128906 ms",
+            "Prediction time": " 78.60398292541504 ms",
+            "Top5": [
+                "Hung with 0.8718793392181396 score",
+                "Hung with 0.8736400008201599 score",
+                "Obama with 0.8973269462585449 score",
+                "Son Tung with 0.9001902937889099 score"
+            ],
+            "Face search time": " 0.16164779663085938 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937798
+        },
+        {
+            "Reading image time": " 8.574962615966797 ms",
+            "Aligning face time": " 0.14472007751464844 ms",
+            "Prediction time": " 78.90105247497559 ms",
+            "Top5": [
+                "Hung with 0.8185495138168335 score",
+                "Hung with 0.8210214376449585 score",
+                "Hung with 0.8523029088973999 score",
+                "Hung with 0.8565787076950073 score"
+            ],
+            "Face search time": " 0.18525123596191406 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937798
+        },
+        {
+            "Reading image time": " 8.178949356079102 ms",
+            "Aligning face time": " 0.1583099365234375 ms",
+            "Prediction time": " 87.53705024719238 ms",
+            "Top5": [
+                "Son Tung with 0.8607690930366516 score",
+                "Son Tung with 0.8824046850204468 score",
+                "Hung with 0.8828574419021606 score",
+                "Obama with 0.8904797434806824 score"
+            ],
+            "Face search time": " 0.1633167266845703 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937798
+        },
+        {
+            "Reading image time": " 8.342742919921875 ms",
+            "Aligning face time": " 0.1430511474609375 ms",
+            "Prediction time": " 97.98908233642578 ms",
+            "Top5": [
+                "Hung with 0.8163739442825317 score",
+                "Hung with 0.8249571323394775 score",
+                "Hung with 0.8560292720794678 score",
+                "Hung with 0.8879444003105164 score"
+            ],
+            "Face search time": " 0.24628639221191406 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937798
+        },
+        {
+            "Reading image time": " 10.154008865356445 ms",
+            "Aligning face time": " 0.1671314239501953 ms",
+            "Prediction time": " 82.0627212524414 ms",
+            "Top5": [
+                "Hung with 0.7956340909004211 score",
+                "Hung with 0.7993980050086975 score",
+                "Hung with 0.8380672335624695 score",
+                "Hung with 0.8591945767402649 score"
+            ],
+            "Face search time": " 0.14925003051757812 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937798
+        },
+        {
+            "Reading image time": " 8.631467819213867 ms",
+            "Aligning face time": " 0.13446807861328125 ms",
+            "Prediction time": " 78.13143730163574 ms",
+            "Top5": [
+                "Hung with 0.7864556312561035 score",
+                "Hung with 0.8008016347885132 score",
+                "Hung with 0.8066374063491821 score",
+                "Hung with 0.8271974921226501 score"
+            ],
+            "Face search time": " 0.16164779663085938 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937798
+        },
+        {
+            "Reading image time": " 9.208202362060547 ms",
+            "Aligning face time": " 0.15115737915039062 ms",
+            "Prediction time": " 88.63592147827148 ms",
+            "Top5": [
+                "Hung with 0.8070521354675293 score",
+                "Hung with 0.8235796689987183 score",
+                "Hung with 0.8401059508323669 score",
+                "Hung with 0.8480637073516846 score"
+            ],
+            "Face search time": " 0.17881393432617188 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937799
+        },
+        {
+            "Reading image time": " 6.964445114135742 ms",
+            "Aligning face time": " 0.15044212341308594 ms",
+            "Prediction time": " 79.96010780334473 ms",
+            "Top5": [
+                "Hung with 0.8433895111083984 score",
+                "Obama with 0.8490687012672424 score",
+                "Hung with 0.8549236059188843 score",
+                "Hung with 0.8736261129379272 score"
+            ],
+            "Face search time": " 0.19168853759765625 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937799
+        },
+        {
+            "Reading image time": " 9.917259216308594 ms",
+            "Aligning face time": " 0.1590251922607422 ms",
+            "Prediction time": " 80.61671257019043 ms",
+            "Top5": [
+                "Hung with 0.7630760669708252 score",
+                "Hung with 0.7879019379615784 score",
+                "Hung with 0.7949497699737549 score",
+                "Hung with 0.7975165843963623 score"
+            ],
+            "Face search time": " 0.1480579376220703 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937799
+        },
+        {
+            "Reading image time": " 6.672382354736328 ms",
+            "Aligning face time": " 0.15163421630859375 ms",
+            "Prediction time": " 78.32455635070801 ms",
+            "Top5": [
+                "Hung with 0.8034404516220093 score",
+                "Hung with 0.8088260889053345 score",
+                "Hung with 0.8343812227249146 score",
+                "Hung with 0.8461024761199951 score"
+            ],
+            "Face search time": " 0.18548965454101562 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937799
+        },
+        {
+            "Reading image time": " 9.337186813354492 ms",
+            "Aligning face time": " 0.18668174743652344 ms",
+            "Prediction time": " 87.4016284942627 ms",
+            "Top5": [
+                "Hung with 0.7097063064575195 score",
+                "Hung with 0.721013069152832 score",
+                "Hung with 0.7317035794258118 score",
+                "Hung with 0.7422374486923218 score"
+            ],
+            "Face search time": " 0.1876354217529297 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937799
+        },
+        {
+            "Reading image time": " 7.352352142333984 ms",
+            "Aligning face time": " 0.15544891357421875 ms",
+            "Prediction time": " 86.23337745666504 ms",
+            "Top5": [
+                "Hung with 0.6950711011886597 score",
+                "Hung with 0.7057062983512878 score",
+                "Hung with 0.7224546074867249 score",
+                "Hung with 0.7290312051773071 score"
+            ],
+            "Face search time": " 0.2105236053466797 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937799
+        },
+        {
+            "Reading image time": " 7.052421569824219 ms",
+            "Aligning face time": " 0.1399517059326172 ms",
+            "Prediction time": " 77.16083526611328 ms",
+            "Top5": [
+                "Hung with 0.7558466196060181 score",
+                "Hung with 0.7572486400604248 score",
+                "Hung with 0.7745599150657654 score",
+                "Hung with 0.7828771471977234 score"
+            ],
+            "Face search time": " 0.14829635620117188 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937799
+        },
+        {
+            "Reading image time": " 11.83938980102539 ms",
+            "Aligning face time": " 0.6375312805175781 ms",
+            "Prediction time": " 77.09598541259766 ms",
+            "Top5": [
+                "Hung with 0.7376278638839722 score",
+                "Hung with 0.7390545010566711 score",
+                "Hung with 0.7444255352020264 score",
+                "Hung with 0.7800471782684326 score"
+            ],
+            "Face search time": " 0.16617774963378906 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937799
+        },
+        {
+            "Reading image time": " 11.829614639282227 ms",
+            "Aligning face time": " 0.11849403381347656 ms",
+            "Prediction time": " 80.08694648742676 ms",
+            "Top5": [
+                "Son Tung with 0.8607690930366516 score",
+                "Son Tung with 0.8824046850204468 score",
+                "Hung with 0.8828574419021606 score",
+                "Obama with 0.8904797434806824 score"
+            ],
+            "Face search time": " 0.1766681671142578 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937799
+        },
+        {
+            "Reading image time": " 4.305124282836914 ms",
+            "Aligning face time": " 0.15234947204589844 ms",
+            "Prediction time": " 85.81662178039551 ms",
+            "Top5": [
+                "Hung with 0.8163739442825317 score",
+                "Hung with 0.8249571323394775 score",
+                "Hung with 0.8560292720794678 score",
+                "Hung with 0.8879444003105164 score"
+            ],
+            "Face search time": " 0.25153160095214844 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937799
+        },
+        {
+            "Reading image time": " 8.59212875366211 ms",
+            "Aligning face time": " 0.18215179443359375 ms",
+            "Prediction time": " 84.22970771789551 ms",
+            "Top5": [
+                "Hung with 0.7139722108840942 score",
+                "Hung with 0.7162778377532959 score",
+                "Hung with 0.7242221832275391 score",
+                "Hung with 0.7394289970397949 score"
+            ],
+            "Face search time": " 0.22149085998535156 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937800
+        },
+        {
+            "Reading image time": " 10.314226150512695 ms",
+            "Aligning face time": " 0.1747608184814453 ms",
+            "Prediction time": " 86.8062973022461 ms",
+            "Top5": [
+                "Hung with 0.7956340909004211 score",
+                "Hung with 0.7993980050086975 score",
+                "Hung with 0.8380672335624695 score",
+                "Hung with 0.8591945767402649 score"
+            ],
+            "Face search time": " 0.27489662170410156 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937800
+        },
+        {
+            "Reading image time": " 10.210275650024414 ms",
+            "Aligning face time": " 0.18739700317382812 ms",
+            "Prediction time": " 88.45925331115723 ms",
+            "Top5": [
+                "Hung with 0.7249581813812256 score",
+                "Hung with 0.7370569705963135 score",
+                "Hung with 0.7392526865005493 score",
+                "Hung with 0.76188725233078 score"
+            ],
+            "Face search time": " 0.19216537475585938 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937800
+        },
+        {
+            "Reading image time": " 6.934881210327148 ms",
+            "Aligning face time": " 0.1838207244873047 ms",
+            "Prediction time": " 89.50304985046387 ms",
+            "Top5": [
+                "Hung with 0.7461847066879272 score",
+                "Hung with 0.7766814231872559 score",
+                "Hung with 0.7777502536773682 score",
+                "Hung with 0.7786052227020264 score"
+            ],
+            "Face search time": " 0.225067138671875 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937800
+        },
+        {
+            "Reading image time": " 10.538101196289062 ms",
+            "Aligning face time": " 0.15664100646972656 ms",
+            "Prediction time": " 82.9308032989502 ms",
+            "Top5": [
+                "Hung with 0.7332252264022827 score",
+                "Hung with 0.7348872423171997 score",
+                "Hung with 0.7349090576171875 score",
+                "Hung with 0.7719236016273499 score"
+            ],
+            "Face search time": " 0.1518726348876953 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937800
+        },
+        {
+            "Reading image time": " 12.193679809570312 ms",
+            "Aligning face time": " 0.1418590545654297 ms",
+            "Prediction time": " 84.00845527648926 ms",
+            "Top5": [
+                "Hung with 0.7128294110298157 score",
+                "Hung with 0.7135844230651855 score",
+                "Hung with 0.7226237654685974 score",
+                "Hung with 0.7444703578948975 score"
+            ],
+            "Face search time": " 0.2105236053466797 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937800
+        },
+        {
+            "Reading image time": " 10.3607177734375 ms",
+            "Aligning face time": " 0.1862049102783203 ms",
+            "Prediction time": " 77.1336555480957 ms",
+            "Top5": [
+                "Hung with 0.7426705360412598 score",
+                "Hung with 0.7449859380722046 score",
+                "Hung with 0.7476102709770203 score",
+                "Hung with 0.7832841873168945 score"
+            ],
+            "Face search time": " 0.16808509826660156 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937800
+        },
+        {
+            "Reading image time": " 9.156227111816406 ms",
+            "Aligning face time": " 0.15783309936523438 ms",
+            "Prediction time": " 84.11741256713867 ms",
+            "Top5": [
+                "Hung with 0.7002815008163452 score",
+                "Hung with 0.7089998722076416 score",
+                "Hung with 0.7224702835083008 score",
+                "Hung with 0.7226726412773132 score"
+            ],
+            "Face search time": " 0.14853477478027344 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937800
+        },
+        {
+            "Reading image time": " 10.114192962646484 ms",
+            "Aligning face time": " 0.14066696166992188 ms",
+            "Prediction time": " 76.86114311218262 ms",
+            "Top5": [
+                "Hung with 0.7034710645675659 score",
+                "Hung with 0.7137786149978638 score",
+                "Hung with 0.7331310510635376 score",
+                "Hung with 0.7333239316940308 score"
+            ],
+            "Face search time": " 0.14543533325195312 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937800
+        },
+        {
+            "Reading image time": " 9.718656539916992 ms",
+            "Aligning face time": " 0.13589859008789062 ms",
+            "Prediction time": " 82.18979835510254 ms",
+            "Top5": [
+                "Hung with 0.7011431455612183 score",
+                "Hung with 0.7022764682769775 score",
+                "Hung with 0.7199273109436035 score",
+                "Hung with 0.7333728075027466 score"
+            ],
+            "Face search time": " 0.20599365234375 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937800
+        },
+        {
+            "Reading image time": " 9.203672409057617 ms",
+            "Aligning face time": " 0.16236305236816406 ms",
+            "Prediction time": " 86.38930320739746 ms",
+            "Top5": [
+                "Hung with 0.6984637379646301 score",
+                "Hung with 0.7001252174377441 score",
+                "Hung with 0.7166903018951416 score",
+                "Hung with 0.7306848764419556 score"
+            ],
+            "Face search time": " 0.2541542053222656 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937801
+        },
+        {
+            "Reading image time": " 8.476734161376953 ms",
+            "Aligning face time": " 0.164031982421875 ms",
+            "Prediction time": " 83.62889289855957 ms",
+            "Top5": [
+                "Hung with 0.7461847066879272 score",
+                "Hung with 0.7766814231872559 score",
+                "Hung with 0.7777502536773682 score",
+                "Hung with 0.7786052227020264 score"
+            ],
+            "Face search time": " 0.2090930938720703 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937801
+        },
+        {
+            "Reading image time": " 8.333206176757812 ms",
+            "Aligning face time": " 0.17642974853515625 ms",
+            "Prediction time": " 86.58242225646973 ms",
+            "Top5": [
+                "Hung with 0.6958621740341187 score",
+                "Hung with 0.6978520154953003 score",
+                "Hung with 0.703556478023529 score",
+                "Hung with 0.730574369430542 score"
+            ],
+            "Face search time": " 0.19216537475585938 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937801
+        },
+        {
+            "Reading image time": " 9.682416915893555 ms",
+            "Aligning face time": " 0.15354156494140625 ms",
+            "Prediction time": " 86.96341514587402 ms",
+            "Top5": [
+                "Hung with 0.6945196390151978 score",
+                "Hung with 0.6948609352111816 score",
+                "Hung with 0.696236252784729 score",
+                "Hung with 0.7145681381225586 score"
+            ],
+            "Face search time": " 0.1857280731201172 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937801
+        },
+        {
+            "Reading image time": " 9.848833084106445 ms",
+            "Aligning face time": " 0.17118453979492188 ms",
+            "Prediction time": " 83.97340774536133 ms",
+            "Top5": [
+                "Hung with 0.7012526988983154 score",
+                "Hung with 0.7153521776199341 score",
+                "Hung with 0.7166824340820312 score",
+                "Hung with 0.7397785186767578 score"
+            ],
+            "Face search time": " 0.2014636993408203 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937801
+        },
+        {
+            "Reading image time": " 8.981704711914062 ms",
+            "Aligning face time": " 0.12540817260742188 ms",
+            "Prediction time": " 82.71932601928711 ms",
+            "Top5": [
+                "Hung with 0.7078416347503662 score",
+                "Hung with 0.7096449732780457 score",
+                "Hung with 0.7173764705657959 score",
+                "Hung with 0.741708517074585 score"
+            ],
+            "Face search time": " 0.20647048950195312 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937801
+        },
+        {
+            "Reading image time": " 7.78508186340332 ms",
+            "Aligning face time": " 0.14066696166992188 ms",
+            "Prediction time": " 82.75842666625977 ms",
+            "Top5": [
+                "Hung with 0.7000603675842285 score",
+                "Hung with 0.7112553119659424 score",
+                "Hung with 0.7171498537063599 score",
+                "Hung with 0.7520345449447632 score"
+            ],
+            "Face search time": " 0.20623207092285156 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937801
+        },
+        {
+            "Reading image time": " 10.283708572387695 ms",
+            "Aligning face time": " 0.11706352233886719 ms",
+            "Prediction time": " 82.31925964355469 ms",
+            "Top5": [
+                "Hung with 0.7034710645675659 score",
+                "Hung with 0.7137786149978638 score",
+                "Hung with 0.7331310510635376 score",
+                "Hung with 0.7333239316940308 score"
+            ],
+            "Face search time": " 0.20432472229003906 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937801
+        },
+        {
+            "Reading image time": " 9.398460388183594 ms",
+            "Aligning face time": " 0.12302398681640625 ms",
+            "Prediction time": " 77.24452018737793 ms",
+            "Top5": [
+                "Hung with 0.8034404516220093 score",
+                "Hung with 0.8088260889053345 score",
+                "Hung with 0.8343812227249146 score",
+                "Hung with 0.8461024761199951 score"
+            ],
+            "Face search time": " 0.2067089080810547 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937801
+        },
+        {
+            "Reading image time": " 10.359525680541992 ms",
+            "Aligning face time": " 0.11920928955078125 ms",
+            "Prediction time": " 82.13639259338379 ms",
+            "Top5": [
+                "Hung with 0.7055306434631348 score",
+                "Hung with 0.7173652648925781 score",
+                "Hung with 0.7234054803848267 score",
+                "Hung with 0.7430757880210876 score"
+            ],
+            "Face search time": " 0.20360946655273438 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937802
+        },
+        {
+            "Reading image time": " 9.224176406860352 ms",
+            "Aligning face time": " 0.1461505889892578 ms",
+            "Prediction time": " 81.4826488494873 ms",
+            "Top5": [
+                "Hung with 0.7002815008163452 score",
+                "Hung with 0.7089998722076416 score",
+                "Hung with 0.7224702835083008 score",
+                "Hung with 0.7226726412773132 score"
+            ],
+            "Face search time": " 0.19979476928710938 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937802
+        },
+        {
+            "Reading image time": " 10.003089904785156 ms",
+            "Aligning face time": " 0.1347064971923828 ms",
+            "Prediction time": " 77.76093482971191 ms",
+            "Top5": [
+                "Hung with 0.7426705360412598 score",
+                "Hung with 0.7449859380722046 score",
+                "Hung with 0.7476102709770203 score",
+                "Hung with 0.7832841873168945 score"
+            ],
+            "Face search time": " 0.14209747314453125 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937802
+        },
+        {
+            "Reading image time": " 10.418415069580078 ms",
+            "Aligning face time": " 0.16927719116210938 ms",
+            "Prediction time": " 82.84282684326172 ms",
+            "Top5": [
+                "Hung with 0.7012526988983154 score",
+                "Hung with 0.7153521776199341 score",
+                "Hung with 0.7166824340820312 score",
+                "Hung with 0.7397785186767578 score"
+            ],
+            "Face search time": " 0.20623207092285156 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937802
+        },
+        {
+            "Reading image time": " 8.374452590942383 ms",
+            "Aligning face time": " 0.164031982421875 ms",
+            "Prediction time": " 82.98778533935547 ms",
+            "Top5": [
+                "Hung with 0.8070521354675293 score",
+                "Hung with 0.8235796689987183 score",
+                "Hung with 0.8401059508323669 score",
+                "Hung with 0.8480637073516846 score"
+            ],
+            "Face search time": " 0.20933151245117188 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937802
+        },
+        {
+            "Reading image time": " 8.462905883789062 ms",
+            "Aligning face time": " 0.18668174743652344 ms",
+            "Prediction time": " 87.95833587646484 ms",
+            "Top5": [
+                "Hung with 0.7055306434631348 score",
+                "Hung with 0.7173652648925781 score",
+                "Hung with 0.7234054803848267 score",
+                "Hung with 0.7430757880210876 score"
+            ],
+            "Face search time": " 0.22673606872558594 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937802
+        },
+        {
+            "Reading image time": " 8.014202117919922 ms",
+            "Aligning face time": " 0.16021728515625 ms",
+            "Prediction time": " 82.53312110900879 ms",
+            "Top5": [
+                "Hung with 0.7071114778518677 score",
+                "Hung with 0.708666980266571 score",
+                "Hung with 0.7119522094726562 score",
+                "Hung with 0.74649977684021 score"
+            ],
+            "Face search time": " 0.20956993103027344 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937802
+        },
+        {
+            "Reading image time": " 8.898496627807617 ms",
+            "Aligning face time": " 0.1690387725830078 ms",
+            "Prediction time": " 87.53061294555664 ms",
+            "Top5": [
+                "Hung with 0.6981127262115479 score",
+                "Hung with 0.7028477191925049 score",
+                "Hung with 0.7082831859588623 score",
+                "Hung with 0.7306520342826843 score"
+            ],
+            "Face search time": " 0.1900196075439453 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937802
+        },
+        {
+            "Reading image time": " 12.738704681396484 ms",
+            "Aligning face time": " 0.22673606872558594 ms",
+            "Prediction time": " 84.73658561706543 ms",
+            "Top5": [
+                "Hung with 0.7196573615074158 score",
+                "Hung with 0.729102611541748 score",
+                "Hung with 0.7449756860733032 score",
+                "Hung with 0.7566138505935669 score"
+            ],
+            "Face search time": " 0.2048015594482422 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937802
+        },
+        {
+            "Reading image time": " 7.735729217529297 ms",
+            "Aligning face time": " 0.1537799835205078 ms",
+            "Prediction time": " 86.30514144897461 ms",
+            "Top5": [
+                "Hung with 0.712103009223938 score",
+                "Hung with 0.7135705947875977 score",
+                "Hung with 0.7319784164428711 score",
+                "Hung with 0.7334581613540649 score"
+            ],
+            "Face search time": " 0.22459030151367188 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937802
+        },
+        {
+            "Reading image time": " 12.108087539672852 ms",
+            "Aligning face time": " 0.18286705017089844 ms",
+            "Prediction time": " 96.37928009033203 ms",
+            "Top5": [
+                "Hung with 0.6981127262115479 score",
+                "Hung with 0.7028477191925049 score",
+                "Hung with 0.7082831859588623 score",
+                "Hung with 0.7306520342826843 score"
+            ],
+            "Face search time": " 0.1933574676513672 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937803
+        },
+        {
+            "Reading image time": " 12.893915176391602 ms",
+            "Aligning face time": " 0.18310546875 ms",
+            "Prediction time": " 77.51846313476562 ms",
+            "Top5": [
+                "Hung with 0.7071114778518677 score",
+                "Hung with 0.708666980266571 score",
+                "Hung with 0.7119522094726562 score",
+                "Hung with 0.74649977684021 score"
+            ],
+            "Face search time": " 0.16307830810546875 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937804
+        },
+        {
+            "Reading image time": " 12.555837631225586 ms",
+            "Aligning face time": " 0.2732276916503906 ms",
+            "Prediction time": " 85.58440208435059 ms",
+            "Top5": [
+                "Hung with 0.7900655269622803 score",
+                "Hung with 0.7997443675994873 score",
+                "Hung with 0.831649899482727 score",
+                "Hung with 0.8369699120521545 score"
+            ],
+            "Face search time": " 0.16188621520996094 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937805
+        },
+        {
+            "Reading image time": " 10.571956634521484 ms",
+            "Aligning face time": " 0.1900196075439453 ms",
+            "Prediction time": " 79.85782623291016 ms",
+            "Top5": [
+                "Hung with 0.8309822678565979 score",
+                "Hung with 0.8513094782829285 score",
+                "Hung with 0.8573415279388428 score",
+                "Hung with 0.8701530694961548 score"
+            ],
+            "Face search time": " 0.148773193359375 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937805
+        },
+        {
+            "Reading image time": " 11.713504791259766 ms",
+            "Aligning face time": " 0.1690387725830078 ms",
+            "Prediction time": " 84.38754081726074 ms",
+            "Top5": [
+                "Hung with 0.8632631301879883 score",
+                "Hung with 0.8692036867141724 score",
+                "Hung with 0.8873796463012695 score",
+                "Hung with 0.897249698638916 score"
+            ],
+            "Face search time": " 0.22649765014648438 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666937805
+        },
+        {
+            "Reading image time": " 11.516094207763672 ms",
+            "Aligning face time": " 0.1308917999267578 ms",
+            "Prediction time": " 88.36102485656738 ms",
+            "Top5": [
+                "Hung with 0.8770067691802979 score",
+                "Son Tung with 0.8935545682907104 score",
+                "Hung with 0.8961251974105835 score",
+                "Obama with 0.8974425196647644 score"
+            ],
+            "Face search time": " 0.3142356872558594 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938217
+        },
+        {
+            "Reading image time": " 14.854192733764648 ms",
+            "Aligning face time": " 0.23484230041503906 ms",
+            "Prediction time": " 83.05978775024414 ms",
+            "Top5": [
+                "Hung with 0.7953153848648071 score",
+                "Hung with 0.8114636540412903 score",
+                "Hung with 0.8131420612335205 score",
+                "Hung with 0.8363889455795288 score"
+            ],
+            "Face search time": " 0.1850128173828125 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938219
+        },
+        {
+            "Reading image time": " 6.886959075927734 ms",
+            "Aligning face time": " 0.19025802612304688 ms",
+            "Prediction time": " 79.50282096862793 ms",
+            "Top5": [
+                "Hung with 0.7989166378974915 score",
+                "Hung with 0.8266724944114685 score",
+                "Hung with 0.8269193768501282 score",
+                "Obama with 0.8500475287437439 score"
+            ],
+            "Face search time": " 0.2257823944091797 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938219
+        },
+        {
+            "Reading image time": " 10.003328323364258 ms",
+            "Aligning face time": " 0.24008750915527344 ms",
+            "Prediction time": " 91.31860733032227 ms",
+            "Top5": [
+                "Hung with 0.8050544261932373 score",
+                "Hung with 0.8274329900741577 score",
+                "Hung with 0.8281047940254211 score",
+                "Obama with 0.855344295501709 score"
+            ],
+            "Face search time": " 0.20575523376464844 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938219
+        },
+        {
+            "Reading image time": " 7.499456405639648 ms",
+            "Aligning face time": " 0.15735626220703125 ms",
+            "Prediction time": " 89.46776390075684 ms",
+            "Top5": [
+                "Hung with 0.8141160011291504 score",
+                "Hung with 0.8400282859802246 score",
+                "Hung with 0.8447616696357727 score",
+                "Obama with 0.850655198097229 score"
+            ],
+            "Face search time": " 0.14734268188476562 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938219
+        },
+        {
+            "Reading image time": " 9.732246398925781 ms",
+            "Aligning face time": " 0.2875328063964844 ms",
+            "Prediction time": " 83.22930335998535 ms",
+            "Top5": [
+                "Hung with 0.7982293367385864 score",
+                "Hung with 0.8154102563858032 score",
+                "Hung with 0.826972246170044 score",
+                "Hung with 0.8507075309753418 score"
+            ],
+            "Face search time": " 0.1659393310546875 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938219
+        },
+        {
+            "Reading image time": " 10.82754135131836 ms",
+            "Aligning face time": " 0.17499923706054688 ms",
+            "Prediction time": " 87.49532699584961 ms",
+            "Top5": [
+                "Hung with 0.831869900226593 score",
+                "Obama with 0.8617503643035889 score",
+                "Hung with 0.8637840747833252 score",
+                "Son Tung with 0.8660111427307129 score"
+            ],
+            "Face search time": " 0.26869773864746094 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938219
+        },
+        {
+            "Reading image time": " 11.33871078491211 ms",
+            "Aligning face time": " 0.1087188720703125 ms",
+            "Prediction time": " 144.58298683166504 ms",
+            "Top5": [
+                "Obama with 0.8676556944847107 score",
+                "Hung with 0.8759657144546509 score",
+                "Son Tung with 0.8840649127960205 score",
+                "Son Tung with 0.8926928043365479 score"
+            ],
+            "Face search time": " 0.2911090850830078 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938219
+        },
+        {
+            "Reading image time": " 6.592750549316406 ms",
+            "Aligning face time": " 0.16260147094726562 ms",
+            "Prediction time": " 118.89767646789551 ms",
+            "Top5": [
+                "Hung with 0.8263876438140869 score",
+                "Hung with 0.8676530122756958 score",
+                "Hung with 0.869360625743866 score",
+                "Obama with 0.8702956438064575 score"
+            ],
+            "Face search time": " 0.20551681518554688 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938220
+        },
+        {
+            "Reading image time": " 10.507822036743164 ms",
+            "Aligning face time": " 0.16641616821289062 ms",
+            "Prediction time": " 83.38141441345215 ms",
+            "Top5": [
+                "Hung with 0.8078640699386597 score",
+                "Hung with 0.8391409516334534 score",
+                "Hung with 0.841428279876709 score",
+                "Hung with 0.8670485019683838 score"
+            ],
+            "Face search time": " 0.2067089080810547 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938220
+        },
+        {
+            "Reading image time": " 8.378267288208008 ms",
+            "Aligning face time": " 0.22363662719726562 ms",
+            "Prediction time": " 82.54694938659668 ms",
+            "Top5": [
+                "Hung with 0.8207530975341797 score",
+                "Hung with 0.8598755598068237 score",
+                "Hung with 0.8626794219017029 score",
+                "Obama with 0.8693161010742188 score"
+            ],
+            "Face search time": " 0.2067089080810547 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938220
+        },
+        {
+            "Reading image time": " 8.810758590698242 ms",
+            "Aligning face time": " 0.2918243408203125 ms",
+            "Prediction time": " 86.57622337341309 ms",
+            "Top5": [
+                "Hung with 0.812606692314148 score",
+                "Hung with 0.8339016437530518 score",
+                "Obama with 0.8369430303573608 score",
+                "Hung with 0.8434495329856873 score"
+            ],
+            "Face search time": " 0.16450881958007812 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938220
+        },
+        {
+            "Reading image time": " 8.688211441040039 ms",
+            "Aligning face time": " 0.1811981201171875 ms",
+            "Prediction time": " 86.94934844970703 ms",
+            "Top5": [
+                "Obama with 0.8291458487510681 score",
+                "Hung with 0.8346171379089355 score",
+                "Hung with 0.8474749326705933 score",
+                "Hung with 0.8629312515258789 score"
+            ],
+            "Face search time": " 0.21839141845703125 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938220
+        },
+        {
+            "Reading image time": " 11.956453323364258 ms",
+            "Aligning face time": " 0.14972686767578125 ms",
+            "Prediction time": " 83.11057090759277 ms",
+            "Top5": [
+                "Hung with 0.8211607336997986 score",
+                "Hung with 0.8375872373580933 score",
+                "Obama with 0.8396137356758118 score",
+                "Hung with 0.8418309092521667 score"
+            ],
+            "Face search time": " 0.20885467529296875 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938221
+        },
+        {
+            "Reading image time": " 8.348464965820312 ms",
+            "Aligning face time": " 0.15211105346679688 ms",
+            "Prediction time": " 83.17327499389648 ms",
+            "Top5": [
+                "Hung with 0.8317950367927551 score",
+                "Obama with 0.8372286558151245 score",
+                "Hung with 0.8658283948898315 score",
+                "Hung with 0.872211754322052 score"
+            ],
+            "Face search time": " 0.2071857452392578 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938221
+        },
+        {
+            "Reading image time": " 8.48841667175293 ms",
+            "Aligning face time": " 0.1354217529296875 ms",
+            "Prediction time": " 85.08586883544922 ms",
+            "Top5": [
+                "Hung with 0.8228961229324341 score",
+                "Hung with 0.8374332189559937 score",
+                "Obama with 0.8405461311340332 score",
+                "Hung with 0.844552218914032 score"
+            ],
+            "Face search time": " 0.20313262939453125 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938221
+        },
+        {
+            "Reading image time": " 8.622407913208008 ms",
+            "Aligning face time": " 0.1926422119140625 ms",
+            "Prediction time": " 141.61372184753418 ms",
+            "Top5": [
+                "Hung with 0.8195046186447144 score",
+                "Obama with 0.8249148726463318 score",
+                "Hung with 0.8363229036331177 score",
+                "Hung with 0.8397769331932068 score"
+            ],
+            "Face search time": " 0.16617774963378906 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938221
+        },
+        {
+            "Reading image time": " 8.862733840942383 ms",
+            "Aligning face time": " 0.12755393981933594 ms",
+            "Prediction time": " 80.03354072570801 ms",
+            "Top5": [
+                "Obama with 0.8132476806640625 score",
+                "Hung with 0.83647620677948 score",
+                "Hung with 0.862110435962677 score",
+                "Hung with 0.862386167049408 score"
+            ],
+            "Face search time": " 0.1666545867919922 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938221
+        },
+        {
+            "Reading image time": " 9.302854537963867 ms",
+            "Aligning face time": " 0.26702880859375 ms",
+            "Prediction time": " 86.58576011657715 ms",
+            "Top5": [
+                "Obama with 0.8261440396308899 score",
+                "Hung with 0.8397847414016724 score",
+                "Hung with 0.8722548484802246 score",
+                "Hung with 0.8873252868652344 score"
+            ],
+            "Face search time": " 0.22721290588378906 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938221
+        },
+        {
+            "Reading image time": " 7.77125358581543 ms",
+            "Aligning face time": " 0.15473365783691406 ms",
+            "Prediction time": " 91.28570556640625 ms",
+            "Top5": [
+                "Obama with 0.8323593735694885 score",
+                "Hung with 0.843652606010437 score",
+                "Hung with 0.8724575638771057 score",
+                "Hung with 0.8823422193527222 score"
+            ],
+            "Face search time": " 0.20003318786621094 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938221
+        },
+        {
+            "Reading image time": " 7.224559783935547 ms",
+            "Aligning face time": " 0.19884109497070312 ms",
+            "Prediction time": " 83.53662490844727 ms",
+            "Top5": [
+                "Hung with 0.821467399597168 score",
+                "Hung with 0.8381193280220032 score",
+                "Hung with 0.8468707203865051 score",
+                "Obama with 0.8478513360023499 score"
+            ],
+            "Face search time": " 0.2090930938720703 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938221
+        },
+        {
+            "Reading image time": " 8.973836898803711 ms",
+            "Aligning face time": " 0.13566017150878906 ms",
+            "Prediction time": " 82.83305168151855 ms",
+            "Top5": [
+                "Obama with 0.8284391164779663 score",
+                "Hung with 0.8299673795700073 score",
+                "Hung with 0.8473359942436218 score",
+                "Hung with 0.8545262813568115 score"
+            ],
+            "Face search time": " 0.20575523376464844 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938221
+        },
+        {
+            "Reading image time": " 9.37032699584961 ms",
+            "Aligning face time": " 0.18978118896484375 ms",
+            "Prediction time": " 84.5792293548584 ms",
+            "Top5": [
+                "Hung with 0.8271936178207397 score",
+                "Obama with 0.8356435298919678 score",
+                "Hung with 0.852794885635376 score",
+                "Hung with 0.8632255792617798 score"
+            ],
+            "Face search time": " 0.20265579223632812 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938222
+        },
+        {
+            "Reading image time": " 7.081508636474609 ms",
+            "Aligning face time": " 0.18405914306640625 ms",
+            "Prediction time": " 84.89537239074707 ms",
+            "Top5": [
+                "Obama with 0.8159768581390381 score",
+                "Hung with 0.8495329022407532 score",
+                "Hung with 0.8892388939857483 score",
+                "Hung with 0.8900735378265381 score"
+            ],
+            "Face search time": " 0.16927719116210938 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938222
+        },
+        {
+            "Reading image time": " 8.264541625976562 ms",
+            "Aligning face time": " 0.2675056457519531 ms",
+            "Prediction time": " 84.72871780395508 ms",
+            "Top5": [
+                "Hung with 0.8388125896453857 score",
+                "Obama with 0.8544352650642395 score",
+                "Hung with 0.8728712797164917 score",
+                "Son Tung with 0.882631778717041 score"
+            ],
+            "Face search time": " 0.2224445343017578 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938222
+        },
+        {
+            "Reading image time": " 13.625621795654297 ms",
+            "Aligning face time": " 0.2574920654296875 ms",
+            "Prediction time": " 186.43760681152344 ms",
+            "Top5": [
+                "Hung with 0.7874911427497864 score",
+                "Hung with 0.8169388771057129 score",
+                "Hung with 0.8213595747947693 score",
+                "Hung with 0.8307490944862366 score"
+            ],
+            "Face search time": " 0.25463104248046875 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938628
+        },
+        {
+            "Reading image time": " 3.902912139892578 ms",
+            "Aligning face time": " 0.17452239990234375 ms",
+            "Prediction time": " 96.63081169128418 ms",
+            "Top5": [
+                "Hung with 0.7709783315658569 score",
+                "Hung with 0.8107209205627441 score",
+                "Hung with 0.8150265216827393 score",
+                "Hung with 0.8220409750938416 score"
+            ],
+            "Face search time": " 0.36215782165527344 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938628
+        },
+        {
+            "Reading image time": " 6.451845169067383 ms",
+            "Aligning face time": " 0.15115737915039062 ms",
+            "Prediction time": " 89.13326263427734 ms",
+            "Top5": [
+                "Hung with 0.7934514284133911 score",
+                "Hung with 0.8211758136749268 score",
+                "Hung with 0.8229675889015198 score",
+                "Hung with 0.8310998678207397 score"
+            ],
+            "Face search time": " 0.13589859008789062 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938628
+        },
+        {
+            "Reading image time": " 8.977413177490234 ms",
+            "Aligning face time": " 0.14853477478027344 ms",
+            "Prediction time": " 78.30023765563965 ms",
+            "Top5": [
+                "Hung with 0.7995932102203369 score",
+                "Hung with 0.8352864980697632 score",
+                "Hung with 0.8406398296356201 score",
+                "Hung with 0.8433276414871216 score"
+            ],
+            "Face search time": " 0.15163421630859375 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938628
+        },
+        {
+            "Reading image time": " 6.549358367919922 ms",
+            "Aligning face time": " 0.1888275146484375 ms",
+            "Prediction time": " 93.39594841003418 ms",
+            "Top5": [
+                "Hung with 0.7910120487213135 score",
+                "Hung with 0.8327410221099854 score",
+                "Hung with 0.8406693935394287 score",
+                "Hung with 0.8409759998321533 score"
+            ],
+            "Face search time": " 0.14781951904296875 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938629
+        },
+        {
+            "Reading image time": " 7.511615753173828 ms",
+            "Aligning face time": " 0.13518333435058594 ms",
+            "Prediction time": " 84.04350280761719 ms",
+            "Top5": [
+                "Hung with 0.7916194200515747 score",
+                "Hung with 0.8205376863479614 score",
+                "Obama with 0.8258045315742493 score",
+                "Hung with 0.8270391225814819 score"
+            ],
+            "Face search time": " 0.2224445343017578 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938629
+        },
+        {
+            "Reading image time": " 8.35418701171875 ms",
+            "Aligning face time": " 0.17881393432617188 ms",
+            "Prediction time": " 84.11765098571777 ms",
+            "Top5": [
+                "Hung with 0.7854179739952087 score",
+                "Hung with 0.8200050592422485 score",
+                "Hung with 0.8322490453720093 score",
+                "Hung with 0.8322937488555908 score"
+            ],
+            "Face search time": " 0.16641616821289062 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938629
+        },
+        {
+            "Reading image time": " 7.371425628662109 ms",
+            "Aligning face time": " 0.209808349609375 ms",
+            "Prediction time": " 81.92324638366699 ms",
+            "Top5": [
+                "Hung with 0.7942073345184326 score",
+                "Hung with 0.8126715421676636 score",
+                "Hung with 0.820843517780304 score",
+                "Hung with 0.8274705410003662 score"
+            ],
+            "Face search time": " 0.18715858459472656 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938629
+        },
+        {
+            "Reading image time": " 10.009765625 ms",
+            "Aligning face time": " 0.12302398681640625 ms",
+            "Prediction time": " 79.33783531188965 ms",
+            "Top5": [
+                "Hung with 0.7931495904922485 score",
+                "Hung with 0.8233415484428406 score",
+                "Hung with 0.8346595764160156 score",
+                "Hung with 0.837915301322937 score"
+            ],
+            "Face search time": " 0.15115737915039062 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938629
+        },
+        {
+            "Reading image time": " 22.768497467041016 ms",
+            "Aligning face time": " 0.1552104949951172 ms",
+            "Prediction time": " 104.02870178222656 ms",
+            "Top5": [
+                "Hung with 0.7934207320213318 score",
+                "Hung with 0.8150758743286133 score",
+                "Hung with 0.8230112791061401 score",
+                "Hung with 0.8269102573394775 score"
+            ],
+            "Face search time": " 0.22125244140625 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938629
+        },
+        {
+            "Reading image time": " 7.850170135498047 ms",
+            "Aligning face time": " 0.16736984252929688 ms",
+            "Prediction time": " 87.36205101013184 ms",
+            "Top5": [
+                "Hung with 0.7873905897140503 score",
+                "Hung with 0.8133774995803833 score",
+                "Hung with 0.816877543926239 score",
+                "Hung with 0.8325628042221069 score"
+            ],
+            "Face search time": " 0.15282630920410156 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938629
+        },
+        {
+            "Reading image time": " 10.542631149291992 ms",
+            "Aligning face time": " 0.17118453979492188 ms",
+            "Prediction time": " 83.57000350952148 ms",
+            "Top5": [
+                "Hung with 0.7437117695808411 score",
+                "Hung with 0.7473485469818115 score",
+                "Hung with 0.7511241436004639 score",
+                "Hung with 0.7596273422241211 score"
+            ],
+            "Face search time": " 0.21219253540039062 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938629
+        },
+        {
+            "Reading image time": " 8.16035270690918 ms",
+            "Aligning face time": " 0.18930435180664062 ms",
+            "Prediction time": " 78.75847816467285 ms",
+            "Top5": [
+                "Hung with 0.8171496391296387 score",
+                "Obama with 0.8454975485801697 score",
+                "Hung with 0.8505029082298279 score",
+                "Hung with 0.853244960308075 score"
+            ],
+            "Face search time": " 0.1685619354248047 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938629
+        },
+        {
+            "Reading image time": " 12.269020080566406 ms",
+            "Aligning face time": " 0.12326240539550781 ms",
+            "Prediction time": " 78.96232604980469 ms",
+            "Top5": [
+                "Hung with 0.7967995405197144 score",
+                "Hung with 0.8277029395103455 score",
+                "Hung with 0.8423597812652588 score",
+                "Hung with 0.8455829620361328 score"
+            ],
+            "Face search time": " 0.152587890625 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938630
+        },
+        {
+            "Reading image time": " 6.573915481567383 ms",
+            "Aligning face time": " 0.21886825561523438 ms",
+            "Prediction time": " 84.59115028381348 ms",
+            "Top5": [
+                "Hung with 0.7631112933158875 score",
+                "Hung with 0.7820189595222473 score",
+                "Hung with 0.7852091789245605 score",
+                "Hung with 0.7889400124549866 score"
+            ],
+            "Face search time": " 0.171661376953125 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938630
+        },
+        {
+            "Reading image time": " 7.588386535644531 ms",
+            "Aligning face time": " 0.1971721649169922 ms",
+            "Prediction time": " 86.93265914916992 ms",
+            "Top5": [
+                "Hung with 0.7706646919250488 score",
+                "Hung with 0.7893865704536438 score",
+                "Hung with 0.7949718236923218 score",
+                "Hung with 0.7975875735282898 score"
+            ],
+            "Face search time": " 0.18906593322753906 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938630
+        },
+        {
+            "Reading image time": " 8.292675018310547 ms",
+            "Aligning face time": " 0.18668174743652344 ms",
+            "Prediction time": " 90.35420417785645 ms",
+            "Top5": [
+                "Hung with 0.7612723112106323 score",
+                "Hung with 0.7788940668106079 score",
+                "Hung with 0.7813360095024109 score",
+                "Hung with 0.7856853008270264 score"
+            ],
+            "Face search time": " 0.23365020751953125 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938630
+        },
+        {
+            "Reading image time": " 7.829427719116211 ms",
+            "Aligning face time": " 0.18739700317382812 ms",
+            "Prediction time": " 89.22910690307617 ms",
+            "Top5": [
+                "Hung with 0.7552546262741089 score",
+                "Hung with 0.7708287835121155 score",
+                "Hung with 0.7767796516418457 score",
+                "Hung with 0.7803363800048828 score"
+            ],
+            "Face search time": " 0.2574920654296875 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938630
+        },
+        {
+            "Reading image time": " 4.906892776489258 ms",
+            "Aligning face time": " 0.1704692840576172 ms",
+            "Prediction time": " 84.7322940826416 ms",
+            "Top5": [
+                "Hung with 0.7504660487174988 score",
+                "Hung with 0.7583547234535217 score",
+                "Hung with 0.7710071206092834 score",
+                "Hung with 0.7715144157409668 score"
+            ],
+            "Face search time": " 0.2105236053466797 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938630
+        },
+        {
+            "Reading image time": " 7.146120071411133 ms",
+            "Aligning face time": " 0.20194053649902344 ms",
+            "Prediction time": " 78.25279235839844 ms",
+            "Top5": [
+                "Hung with 0.7934207320213318 score",
+                "Hung with 0.8150758743286133 score",
+                "Hung with 0.8230112791061401 score",
+                "Hung with 0.8269102573394775 score"
+            ],
+            "Face search time": " 0.19216537475585938 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938630
+        },
+        {
+            "Reading image time": " 7.800817489624023 ms",
+            "Aligning face time": " 0.18978118896484375 ms",
+            "Prediction time": " 87.83864974975586 ms",
+            "Top5": [
+                "Hung with 0.7810667753219604 score",
+                "Hung with 0.814143717288971 score",
+                "Hung with 0.8172125220298767 score",
+                "Hung with 0.8189079761505127 score"
+            ],
+            "Face search time": " 0.16069412231445312 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938630
+        },
+        {
+            "Reading image time": " 10.468244552612305 ms",
+            "Aligning face time": " 0.16164779663085938 ms",
+            "Prediction time": " 83.50706100463867 ms",
+            "Top5": [
+                "Hung with 0.7813606858253479 score",
+                "Hung with 0.811749279499054 score",
+                "Hung with 0.8191720843315125 score",
+                "Hung with 0.8206596374511719 score"
+            ],
+            "Face search time": " 0.2129077911376953 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938630
+        },
+        {
+            "Reading image time": " 7.758140563964844 ms",
+            "Aligning face time": " 0.20313262939453125 ms",
+            "Prediction time": " 78.81832122802734 ms",
+            "Top5": [
+                "Hung with 0.7741724252700806 score",
+                "Hung with 0.791948139667511 score",
+                "Hung with 0.7962231040000916 score",
+                "Hung with 0.8040941953659058 score"
+            ],
+            "Face search time": " 0.152587890625 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938631
+        },
+        {
+            "Reading image time": " 9.485006332397461 ms",
+            "Aligning face time": " 0.20170211791992188 ms",
+            "Prediction time": " 83.23311805725098 ms",
+            "Top5": [
+                "Hung with 0.7207334637641907 score",
+                "Hung with 0.7339291572570801 score",
+                "Hung with 0.7550901770591736 score",
+                "Hung with 0.7562463879585266 score"
+            ],
+            "Face search time": " 0.2079010009765625 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938631
+        },
+        {
+            "Reading image time": " 6.501436233520508 ms",
+            "Aligning face time": " 0.24199485778808594 ms",
+            "Prediction time": " 85.9982967376709 ms",
+            "Top5": [
+                "Hung with 0.7854695320129395 score",
+                "Hung with 0.8045350313186646 score",
+                "Hung with 0.8075510263442993 score",
+                "Hung with 0.8105518817901611 score"
+            ],
+            "Face search time": " 0.15020370483398438 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938631
+        },
+        {
+            "Reading image time": " 6.808996200561523 ms",
+            "Aligning face time": " 0.14543533325195312 ms",
+            "Prediction time": " 82.91482925415039 ms",
+            "Top5": [
+                "Hung with 0.7562975883483887 score",
+                "Hung with 0.7659220695495605 score",
+                "Hung with 0.7688656449317932 score",
+                "Hung with 0.7792317271232605 score"
+            ],
+            "Face search time": " 0.18715858459472656 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938631
+        },
+        {
+            "Reading image time": " 9.005069732666016 ms",
+            "Aligning face time": " 0.20432472229003906 ms",
+            "Prediction time": " 88.84716033935547 ms",
+            "Top5": [
+                "Hung with 0.7269381284713745 score",
+                "Hung with 0.739159345626831 score",
+                "Hung with 0.7549577951431274 score",
+                "Hung with 0.7619438767433167 score"
+            ],
+            "Face search time": " 0.19073486328125 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938631
+        },
+        {
+            "Reading image time": " 5.138158798217773 ms",
+            "Aligning face time": " 0.21266937255859375 ms",
+            "Prediction time": " 77.09074020385742 ms",
+            "Top5": [
+                "Hung with 0.7643191814422607 score",
+                "Hung with 0.790635883808136 score",
+                "Hung with 0.791974663734436 score",
+                "Hung with 0.7970587611198425 score"
+            ],
+            "Face search time": " 0.16498565673828125 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938631
+        },
+        {
+            "Reading image time": " 7.062673568725586 ms",
+            "Aligning face time": " 1.2073516845703125 ms",
+            "Prediction time": " 80.86872100830078 ms",
+            "Top5": [
+                "Hung with 0.7713958621025085 score",
+                "Hung with 0.7850067019462585 score",
+                "Hung with 0.7914697527885437 score",
+                "Hung with 0.795828640460968 score"
+            ],
+            "Face search time": " 0.1671314239501953 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938631
+        },
+        {
+            "Reading image time": " 9.335517883300781 ms",
+            "Aligning face time": " 0.2288818359375 ms",
+            "Prediction time": " 79.24270629882812 ms",
+            "Top5": [
+                "Hung with 0.7493801116943359 score",
+                "Hung with 0.7653512358665466 score",
+                "Hung with 0.7783910632133484 score",
+                "Hung with 0.7795019149780273 score"
+            ],
+            "Face search time": " 0.18858909606933594 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938631
+        },
+        {
+            "Reading image time": " 10.062456130981445 ms",
+            "Aligning face time": " 0.29921531677246094 ms",
+            "Prediction time": " 79.92935180664062 ms",
+            "Top5": [
+                "Hung with 0.7526389360427856 score",
+                "Hung with 0.7580868601799011 score",
+                "Hung with 0.766762912273407 score",
+                "Hung with 0.7787348628044128 score"
+            ],
+            "Face search time": " 0.148773193359375 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938631
+        },
+        {
+            "Reading image time": " 10.108470916748047 ms",
+            "Aligning face time": " 0.1842975616455078 ms",
+            "Prediction time": " 77.49032974243164 ms",
+            "Top5": [
+                "Hung with 0.7810667753219604 score",
+                "Hung with 0.814143717288971 score",
+                "Hung with 0.8172125220298767 score",
+                "Hung with 0.8189079761505127 score"
+            ],
+            "Face search time": " 0.15807151794433594 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938631
+        },
+        {
+            "Reading image time": " 8.964776992797852 ms",
+            "Aligning face time": " 0.16570091247558594 ms",
+            "Prediction time": " 81.6810131072998 ms",
+            "Top5": [
+                "Hung with 0.7327175140380859 score",
+                "Hung with 0.7443855404853821 score",
+                "Hung with 0.7488112449645996 score",
+                "Hung with 0.749233067035675 score"
+            ],
+            "Face search time": " 0.17881393432617188 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938632
+        },
+        {
+            "Reading image time": " 9.285688400268555 ms",
+            "Aligning face time": " 0.2753734588623047 ms",
+            "Prediction time": " 86.75789833068848 ms",
+            "Top5": [
+                "Hung with 0.7562975883483887 score",
+                "Hung with 0.7659220695495605 score",
+                "Hung with 0.7688656449317932 score",
+                "Hung with 0.7792317271232605 score"
+            ],
+            "Face search time": " 0.21028518676757812 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938632
+        },
+        {
+            "Reading image time": " 2.796173095703125 ms",
+            "Aligning face time": " 0.16999244689941406 ms",
+            "Prediction time": " 84.17892456054688 ms",
+            "Top5": [
+                "Hung with 0.8267109990119934 score",
+                "Hung with 0.8430419564247131 score",
+                "Hung with 0.8551222085952759 score",
+                "Hung with 0.8663013577461243 score"
+            ],
+            "Face search time": " 0.21386146545410156 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938632
+        },
+        {
+            "Reading image time": " 7.569789886474609 ms",
+            "Aligning face time": " 0.1728534698486328 ms",
+            "Prediction time": " 83.33849906921387 ms",
+            "Top5": [
+                "Hung with 0.8037850260734558 score",
+                "Hung with 0.8171154856681824 score",
+                "Hung with 0.8231465816497803 score",
+                "Hung with 0.835119366645813 score"
+            ],
+            "Face search time": " 0.20837783813476562 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938632
+        },
+        {
+            "Reading image time": " 7.701635360717773 ms",
+            "Aligning face time": " 0.19288063049316406 ms",
+            "Prediction time": " 84.74612236022949 ms",
+            "Top5": [
+                "Hung with 0.7959609627723694 score",
+                "Hung with 0.8024245500564575 score",
+                "Hung with 0.8027091026306152 score",
+                "Hung with 0.8204598426818848 score"
+            ],
+            "Face search time": " 0.213623046875 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938632
+        },
+        {
+            "Reading image time": " 8.584976196289062 ms",
+            "Aligning face time": " 0.19788742065429688 ms",
+            "Prediction time": " 91.26925468444824 ms",
+            "Top5": [
+                "Hung with 0.7437117695808411 score",
+                "Hung with 0.7473485469818115 score",
+                "Hung with 0.7511241436004639 score",
+                "Hung with 0.7596273422241211 score"
+            ],
+            "Face search time": " 0.15020370483398438 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938632
+        },
+        {
+            "Reading image time": " 9.52291488647461 ms",
+            "Aligning face time": " 0.16880035400390625 ms",
+            "Prediction time": " 86.23528480529785 ms",
+            "Top5": [
+                "Hung with 0.7967995405197144 score",
+                "Hung with 0.8277029395103455 score",
+                "Hung with 0.8423597812652588 score",
+                "Hung with 0.8455829620361328 score"
+            ],
+            "Face search time": " 0.21076202392578125 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938632
+        },
+        {
+            "Reading image time": " 5.38325309753418 ms",
+            "Aligning face time": " 0.22864341735839844 ms",
+            "Prediction time": " 91.10856056213379 ms",
+            "Top5": [
+                "Hung with 0.7873905897140503 score",
+                "Hung with 0.8133774995803833 score",
+                "Hung with 0.816877543926239 score",
+                "Hung with 0.8325628042221069 score"
+            ],
+            "Face search time": " 0.225067138671875 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938632
+        },
+        {
+            "Reading image time": " 7.056236267089844 ms",
+            "Aligning face time": " 0.17213821411132812 ms",
+            "Prediction time": " 93.68419647216797 ms",
+            "Top5": [
+                "Hung with 0.7963922023773193 score",
+                "Hung with 0.8161361813545227 score",
+                "Hung with 0.8177228569984436 score",
+                "Hung with 0.8334921598434448 score"
+            ],
+            "Face search time": " 0.21147727966308594 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938632
+        },
+        {
+            "Reading image time": " 8.735179901123047 ms",
+            "Aligning face time": " 0.16164779663085938 ms",
+            "Prediction time": " 89.9808406829834 ms",
+            "Top5": [
+                "Hung with 0.8171496391296387 score",
+                "Obama with 0.8454975485801697 score",
+                "Hung with 0.8505029082298279 score",
+                "Hung with 0.853244960308075 score"
+            ],
+            "Face search time": " 0.2155303955078125 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938633
+        },
+        {
+            "Reading image time": " 7.252693176269531 ms",
+            "Aligning face time": " 0.15211105346679688 ms",
+            "Prediction time": " 85.2041244506836 ms",
+            "Top5": [
+                "Hung with 0.7565304040908813 score",
+                "Hung with 0.7639651298522949 score",
+                "Hung with 0.7805367708206177 score",
+                "Hung with 0.785859227180481 score"
+            ],
+            "Face search time": " 0.1964569091796875 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938633
+        },
+        {
+            "Reading image time": " 8.015155792236328 ms",
+            "Aligning face time": " 0.16570091247558594 ms",
+            "Prediction time": " 92.2088623046875 ms",
+            "Top5": [
+                "Hung with 0.7813606858253479 score",
+                "Hung with 0.811749279499054 score",
+                "Hung with 0.8191720843315125 score",
+                "Hung with 0.8206596374511719 score"
+            ],
+            "Face search time": " 0.16260147094726562 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938633
+        },
+        {
+            "Reading image time": " 8.666038513183594 ms",
+            "Aligning face time": " 0.17142295837402344 ms",
+            "Prediction time": " 87.16702461242676 ms",
+            "Top5": [
+                "Hung with 0.8056550621986389 score",
+                "Hung with 0.8140798807144165 score",
+                "Hung with 0.8187109231948853 score",
+                "Hung with 0.839324951171875 score"
+            ],
+            "Face search time": " 0.232696533203125 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938633
+        },
+        {
+            "Reading image time": " 7.002830505371094 ms",
+            "Aligning face time": " 0.1704692840576172 ms",
+            "Prediction time": " 87.88132667541504 ms",
+            "Top5": [
+                "Hung with 0.7854695320129395 score",
+                "Hung with 0.8045350313186646 score",
+                "Hung with 0.8075510263442993 score",
+                "Hung with 0.8105518817901611 score"
+            ],
+            "Face search time": " 0.20122528076171875 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938633
+        },
+        {
+            "Reading image time": " 8.581399917602539 ms",
+            "Aligning face time": " 0.17023086547851562 ms",
+            "Prediction time": " 87.46027946472168 ms",
+            "Top5": [
+                "Hung with 0.7909198999404907 score",
+                "Hung with 0.7942955493927002 score",
+                "Hung with 0.797520637512207 score",
+                "Hung with 0.8081424236297607 score"
+            ],
+            "Face search time": " 0.19478797912597656 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938633
+        },
+        {
+            "Reading image time": " 6.610631942749023 ms",
+            "Aligning face time": " 0.16951560974121094 ms",
+            "Prediction time": " 77.5904655456543 ms",
+            "Top5": [
+                "Hung with 0.7907647490501404 score",
+                "Hung with 0.7990560531616211 score",
+                "Hung with 0.8058158755302429 score",
+                "Hung with 0.8194700479507446 score"
+            ],
+            "Face search time": " 0.1461505889892578 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938633
+        },
+        {
+            "Reading image time": " 10.504007339477539 ms",
+            "Aligning face time": " 0.1347064971923828 ms",
+            "Prediction time": " 82.43155479431152 ms",
+            "Top5": [
+                "Hung with 0.7612723112106323 score",
+                "Hung with 0.7788940668106079 score",
+                "Hung with 0.7813360095024109 score",
+                "Hung with 0.7856853008270264 score"
+            ],
+            "Face search time": " 0.21505355834960938 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938633
+        },
+        {
+            "Reading image time": " 10.69331169128418 ms",
+            "Aligning face time": " 0.4837512969970703 ms",
+            "Prediction time": " 115.50378799438477 ms",
+            "Top5": [
+                "Hung with 0.7569142580032349 score",
+                "Hung with 0.7849502563476562 score",
+                "Hung with 0.7940511703491211 score",
+                "Hung with 0.799040675163269 score"
+            ],
+            "Face search time": " 0.32973289489746094 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938771
+        },
+        {
+            "Reading image time": " 9.053707122802734 ms",
+            "Aligning face time": " 0.1995563507080078 ms",
+            "Prediction time": " 153.9146900177002 ms",
+            "Top5": [
+                "Hung with 0.7699460983276367 score",
+                "Hung with 0.8027113676071167 score",
+                "Hung with 0.8090258836746216 score",
+                "Hung with 0.8149453401565552 score"
+            ],
+            "Face search time": " 0.2276897430419922 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938771
+        },
+        {
+            "Reading image time": " 5.018472671508789 ms",
+            "Aligning face time": " 0.18739700317382812 ms",
+            "Prediction time": " 94.7275161743164 ms",
+            "Top5": [
+                "Hung with 0.7674937844276428 score",
+                "Hung with 0.8021255731582642 score",
+                "Hung with 0.8035926222801208 score",
+                "Hung with 0.8182550072669983 score"
+            ],
+            "Face search time": " 0.4801750183105469 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938771
+        },
+        {
+            "Reading image time": " 4.233837127685547 ms",
+            "Aligning face time": " 0.2124309539794922 ms",
+            "Prediction time": " 86.41457557678223 ms",
+            "Top5": [
+                "Hung with 0.7618560791015625 score",
+                "Hung with 0.7856170535087585 score",
+                "Hung with 0.7870859503746033 score",
+                "Hung with 0.7960566878318787 score"
+            ],
+            "Face search time": " 0.20742416381835938 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938771
+        },
+        {
+            "Reading image time": " 6.046772003173828 ms",
+            "Aligning face time": " 0.17976760864257812 ms",
+            "Prediction time": " 84.96975898742676 ms",
+            "Top5": [
+                "Hung with 0.7910071015357971 score",
+                "Hung with 0.8361227512359619 score",
+                "Hung with 0.8408103585243225 score",
+                "Hung with 0.8453614711761475 score"
+            ],
+            "Face search time": " 0.2067089080810547 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938771
+        },
+        {
+            "Reading image time": " 5.539655685424805 ms",
+            "Aligning face time": " 0.2079010009765625 ms",
+            "Prediction time": " 84.23900604248047 ms",
+            "Top5": [
+                "Hung with 0.7803247570991516 score",
+                "Hung with 0.8155850172042847 score",
+                "Hung with 0.8178083300590515 score",
+                "Hung with 0.8179067969322205 score"
+            ],
+            "Face search time": " 0.21147727966308594 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938771
+        },
+        {
+            "Reading image time": " 6.816864013671875 ms",
+            "Aligning face time": " 0.19121170043945312 ms",
+            "Prediction time": " 84.44881439208984 ms",
+            "Top5": [
+                "Hung with 0.7218654155731201 score",
+                "Hung with 0.7303487062454224 score",
+                "Hung with 0.7365400791168213 score",
+                "Hung with 0.7502385973930359 score"
+            ],
+            "Face search time": " 0.171661376953125 ms",
+            "Result": "Hung",
+            "Timestamp": 1666938772
+        },
+        {
+            "Reading image time": " 6.887674331665039 ms",
+            "Aligning face time": " 0.202178955078125 ms",
+            "Prediction time": " 79.29253578186035 ms",
+            "Top5": [
+                "Hung with 0.7619718313217163 score",
+                "Hung with 0.7865689992904663 score",
+                "Hung with 0.7900359630584717 score",
+                "Hung with 0.7911504507064819 score"
+            ],
+            "Face search time": " 0.152587890625 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938772
+        },
+        {
+            "Reading image time": " 14.474868774414062 ms",
+            "Aligning face time": " 0.19049644470214844 ms",
+            "Prediction time": " 90.49844741821289 ms",
+            "Top5": [
+                "Hung with 0.7619718313217163 score",
+                "Hung with 0.7865689992904663 score",
+                "Hung with 0.7900359630584717 score",
+                "Hung with 0.7911504507064819 score"
+            ],
+            "Face search time": " 0.23937225341796875 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938772
+        },
+        {
+            "Reading image time": " 12.608051300048828 ms",
+            "Aligning face time": " 0.17142295837402344 ms",
+            "Prediction time": " 91.83788299560547 ms",
+            "Top5": [
+                "Hung with 0.7803247570991516 score",
+                "Hung with 0.8155850172042847 score",
+                "Hung with 0.8178083300590515 score",
+                "Hung with 0.8179067969322205 score"
+            ],
+            "Face search time": " 0.232696533203125 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938773
+        },
+        {
+            "Reading image time": " 3.9339065551757812 ms",
+            "Aligning face time": " 0.15044212341308594 ms",
+            "Prediction time": " 86.08698844909668 ms",
+            "Top5": [
+                "Hung with 0.7218654155731201 score",
+                "Hung with 0.7303487062454224 score",
+                "Hung with 0.7365400791168213 score",
+                "Hung with 0.7502385973930359 score"
+            ],
+            "Face search time": " 0.1552104949951172 ms",
+            "Result": "Hung",
+            "Timestamp": 1666938773
+        },
+        {
+            "Reading image time": " 6.931304931640625 ms",
+            "Aligning face time": " 0.1533031463623047 ms",
+            "Prediction time": " 78.60422134399414 ms",
+            "Top5": [
+                "Hung with 0.7699460983276367 score",
+                "Hung with 0.8027113676071167 score",
+                "Hung with 0.8090258836746216 score",
+                "Hung with 0.8149453401565552 score"
+            ],
+            "Face search time": " 0.1461505889892578 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938773
+        },
+        {
+            "Reading image time": " 8.470535278320312 ms",
+            "Aligning face time": " 0.14829635620117188 ms",
+            "Prediction time": " 90.52515029907227 ms",
+            "Top5": [
+                "Hung with 0.7674937844276428 score",
+                "Hung with 0.8021255731582642 score",
+                "Hung with 0.8035926222801208 score",
+                "Hung with 0.8182550072669983 score"
+            ],
+            "Face search time": " 0.1475811004638672 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938773
+        },
+        {
+            "Reading image time": " 8.65483283996582 ms",
+            "Aligning face time": " 0.11038780212402344 ms",
+            "Prediction time": " 84.09833908081055 ms",
+            "Top5": [
+                "Hung with 0.7618560791015625 score",
+                "Hung with 0.7856170535087585 score",
+                "Hung with 0.7870859503746033 score",
+                "Hung with 0.7960566878318787 score"
+            ],
+            "Face search time": " 0.19216537475585938 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938773
+        },
+        {
+            "Reading image time": " 6.829500198364258 ms",
+            "Aligning face time": " 0.20265579223632812 ms",
+            "Prediction time": " 91.6140079498291 ms",
+            "Top5": [
+                "Hung with 0.7910071015357971 score",
+                "Hung with 0.8361227512359619 score",
+                "Hung with 0.8408103585243225 score",
+                "Hung with 0.8453614711761475 score"
+            ],
+            "Face search time": " 0.1976490020751953 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938773
+        },
+        {
+            "Reading image time": " 10.619401931762695 ms",
+            "Aligning face time": " 0.484466552734375 ms",
+            "Prediction time": " 92.67616271972656 ms",
+            "Top5": [
+                "Son Tung with 0.8350470066070557 score",
+                "Son Tung with 0.8351534008979797 score",
+                "Son Tung with 0.8398984670639038 score",
+                "Hung with 0.8717634081840515 score",
+                "Obama with 0.8856431245803833 score"
+            ],
+            "Face search time": " 0.3616809844970703 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938883
+        },
+        {
+            "Reading image time": " 3.4093856811523438 ms",
+            "Aligning face time": " 0.16188621520996094 ms",
+            "Prediction time": " 85.33263206481934 ms",
+            "Top5": [
+                "Son Tung with 0.8847994208335876 score",
+                "Hung with 0.9053508639335632 score",
+                "Hung with 0.9124556183815002 score",
+                "Obama with 0.9212638735771179 score",
+                "Hung with 0.9249751567840576 score"
+            ],
+            "Face search time": " 0.22554397583007812 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938884
+        },
+        {
+            "Reading image time": " 8.603572845458984 ms",
+            "Aligning face time": " 0.1621246337890625 ms",
+            "Prediction time": " 89.55764770507812 ms",
+            "Top5": [
+                "Hung with 0.8652682304382324 score",
+                "Son Tung with 0.885757565498352 score",
+                "Son Tung with 0.8908082842826843 score",
+                "Hung with 0.8960695862770081 score",
+                "Son Tung with 0.899676501750946 score"
+            ],
+            "Face search time": " 0.21314620971679688 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938884
+        },
+        {
+            "Reading image time": " 8.297920227050781 ms",
+            "Aligning face time": " 0.25963783264160156 ms",
+            "Prediction time": " 88.2120132446289 ms",
+            "Top5": [
+                "Hung with 0.7817882299423218 score",
+                "Hung with 0.8208969831466675 score",
+                "Hung with 0.8223958611488342 score",
+                "Hung with 0.8234035968780518 score",
+                "Son Tung with 0.8349690437316895 score"
+            ],
+            "Face search time": " 0.2682209014892578 ms",
+            "Result": "Hung",
+            "Timestamp": 1666938884
+        },
+        {
+            "Reading image time": " 5.622386932373047 ms",
+            "Aligning face time": " 0.18978118896484375 ms",
+            "Prediction time": " 85.66403388977051 ms",
+            "Top5": [
+                "Hung with 0.7672691941261292 score",
+                "Hung with 0.8086448907852173 score",
+                "Hung with 0.810230016708374 score",
+                "Hung with 0.8103405833244324 score",
+                "Son Tung with 0.8310847282409668 score"
+            ],
+            "Face search time": " 0.24247169494628906 ms",
+            "Result": "Hung",
+            "Timestamp": 1666938884
+        },
+        {
+            "Reading image time": " 9.356498718261719 ms",
+            "Aligning face time": " 0.270843505859375 ms",
+            "Prediction time": " 85.12616157531738 ms",
+            "Top5": [
+                "Hung with 0.7282302379608154 score",
+                "Hung with 0.7662336230278015 score",
+                "Hung with 0.7666926383972168 score",
+                "Hung with 0.7684909701347351 score",
+                "Son Tung with 0.8379615545272827 score"
+            ],
+            "Face search time": " 0.23889541625976562 ms",
+            "Result": "Hung",
+            "Timestamp": 1666938884
+        },
+        {
+            "Reading image time": " 6.994485855102539 ms",
+            "Aligning face time": " 0.23889541625976562 ms",
+            "Prediction time": " 87.15200424194336 ms",
+            "Top5": [
+                "Hung with 0.7202070355415344 score",
+                "Hung with 0.7435150146484375 score",
+                "Hung with 0.753970742225647 score",
+                "Hung with 0.7580785155296326 score",
+                "Son Tung with 0.8567381501197815 score"
+            ],
+            "Face search time": " 0.2846717834472656 ms",
+            "Result": "Hung",
+            "Timestamp": 1666938884
+        },
+        {
+            "Reading image time": " 10.695219039916992 ms",
+            "Aligning face time": " 0.19884109497070312 ms",
+            "Prediction time": " 97.25546836853027 ms",
+            "Top5": [
+                "Hung with 0.7847459316253662 score",
+                "Hung with 0.8142802715301514 score",
+                "Hung with 0.8208305835723877 score",
+                "Hung with 0.8216692805290222 score",
+                "Obama with 0.8660659193992615 score"
+            ],
+            "Face search time": " 0.1888275146484375 ms",
+            "Result": "Hung",
+            "Timestamp": 1666938884
+        },
+        {
+            "Reading image time": " 6.700992584228516 ms",
+            "Aligning face time": " 0.2181529998779297 ms",
+            "Prediction time": " 91.84765815734863 ms",
+            "Top5": [
+                "Hung with 0.7204447388648987 score",
+                "Hung with 0.7502344846725464 score",
+                "Hung with 0.7564960718154907 score",
+                "Hung with 0.7569878697395325 score",
+                "Son Tung with 0.8717249631881714 score"
+            ],
+            "Face search time": " 0.23555755615234375 ms",
+            "Result": "Hung",
+            "Timestamp": 1666938885
+        },
+        {
+            "Reading image time": " 6.951093673706055 ms",
+            "Aligning face time": " 0.22029876708984375 ms",
+            "Prediction time": " 90.51203727722168 ms",
+            "Top5": [
+                "Hung with 0.7346563935279846 score",
+                "Hung with 0.7637280225753784 score",
+                "Hung with 0.7650076150894165 score",
+                "Hung with 0.7729250192642212 score",
+                "Son Tung with 0.8874178528785706 score"
+            ],
+            "Face search time": " 0.2181529998779297 ms",
+            "Result": "Hung",
+            "Timestamp": 1666938885
+        },
+        {
+            "Reading image time": " 10.49661636352539 ms",
+            "Aligning face time": " 0.16546249389648438 ms",
+            "Prediction time": " 88.52934837341309 ms",
+            "Top5": [
+                "Hung with 0.7934679388999939 score",
+                "Hung with 0.8244545459747314 score",
+                "Hung with 0.8274323344230652 score",
+                "Hung with 0.8338281512260437 score",
+                "Obama with 0.8921401500701904 score"
+            ],
+            "Face search time": " 0.25010108947753906 ms",
+            "Result": "Hung",
+            "Timestamp": 1666938885
+        },
+        {
+            "Reading image time": " 5.601406097412109 ms",
+            "Aligning face time": " 0.15211105346679688 ms",
+            "Prediction time": " 84.94162559509277 ms",
+            "Top5": [
+                "Hung with 0.7605240345001221 score",
+                "Hung with 0.7983424663543701 score",
+                "Hung with 0.8028862476348877 score",
+                "Hung with 0.8036848306655884 score",
+                "Son Tung with 0.8507552742958069 score"
+            ],
+            "Face search time": " 0.2353191375732422 ms",
+            "Result": "Hung",
+            "Timestamp": 1666938885
+        },
+        {
+            "Reading image time": " 5.278110504150391 ms",
+            "Aligning face time": " 0.17762184143066406 ms",
+            "Prediction time": " 83.19520950317383 ms",
+            "Top5": [
+                "Hung with 0.7101974487304688 score",
+                "Hung with 0.7169173955917358 score",
+                "Hung with 0.7394521236419678 score",
+                "Hung with 0.7398924231529236 score",
+                "Son Tung with 0.8858398795127869 score"
+            ],
+            "Face search time": " 0.1671314239501953 ms",
+            "Result": "Hung",
+            "Timestamp": 1666938885
+        },
+        {
+            "Reading image time": " 6.598234176635742 ms",
+            "Aligning face time": " 0.18024444580078125 ms",
+            "Prediction time": " 81.1307430267334 ms",
+            "Top5": [
+                "Hung with 0.713477611541748 score",
+                "Hung with 0.7138562202453613 score",
+                "Hung with 0.7387640476226807 score",
+                "Hung with 0.73911452293396 score",
+                "Son Tung with 0.8734703063964844 score"
+            ],
+            "Face search time": " 0.1614093780517578 ms",
+            "Result": "Hung",
+            "Timestamp": 1666938885
+        },
+        {
+            "Reading image time": " 6.744146347045898 ms",
+            "Aligning face time": " 0.2269744873046875 ms",
+            "Prediction time": " 92.00763702392578 ms",
+            "Top5": [
+                "Hung with 0.7203458547592163 score",
+                "Hung with 0.7288931608200073 score",
+                "Hung with 0.7473998665809631 score",
+                "Hung with 0.7563198804855347 score",
+                "Son Tung with 0.8828035593032837 score"
+            ],
+            "Face search time": " 0.18739700317382812 ms",
+            "Result": "Hung",
+            "Timestamp": 1666938885
+        },
+        {
+            "Reading image time": " 5.536556243896484 ms",
+            "Aligning face time": " 0.1976490020751953 ms",
+            "Prediction time": " 90.36993980407715 ms",
+            "Top5": [
+                "Hung with 0.8264085054397583 score",
+                "Hung with 0.8644895553588867 score",
+                "Obama with 0.865456223487854 score",
+                "Hung with 0.8680754899978638 score",
+                "Hung with 0.8754256963729858 score"
+            ],
+            "Face search time": " 0.21076202392578125 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938885
+        },
+        {
+            "Reading image time": " 5.060672760009766 ms",
+            "Aligning face time": " 0.232696533203125 ms",
+            "Prediction time": " 85.44683456420898 ms",
+            "Top5": [
+                "Hung with 0.8191620111465454 score",
+                "Hung with 0.8610689640045166 score",
+                "Hung with 0.861076295375824 score",
+                "Obama with 0.8611355423927307 score",
+                "Hung with 0.8663983345031738 score"
+            ],
+            "Face search time": " 0.1895427703857422 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938886
+        },
+        {
+            "Reading image time": " 7.276296615600586 ms",
+            "Aligning face time": " 0.21696090698242188 ms",
+            "Prediction time": " 86.7471694946289 ms",
+            "Top5": [
+                "Hung with 0.8342688679695129 score",
+                "Obama with 0.8601164817810059 score",
+                "Hung with 0.870839536190033 score",
+                "Hung with 0.8710970878601074 score",
+                "Hung with 0.8717038035392761 score"
+            ],
+            "Face search time": " 0.1659393310546875 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938886
+        },
+        {
+            "Reading image time": " 6.5517425537109375 ms",
+            "Aligning face time": " 0.2040863037109375 ms",
+            "Prediction time": " 99.6558666229248 ms",
+            "Top5": [
+                "Hung with 0.8006754517555237 score",
+                "Hung with 0.8396956324577332 score",
+                "Hung with 0.8432070016860962 score",
+                "Hung with 0.8463334441184998 score",
+                "Obama with 0.8858017921447754 score"
+            ],
+            "Face search time": " 0.16617774963378906 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938886
+        },
+        {
+            "Reading image time": " 8.307456970214844 ms",
+            "Aligning face time": " 0.32639503479003906 ms",
+            "Prediction time": " 91.84861183166504 ms",
+            "Top5": [
+                "Hung with 0.8057758808135986 score",
+                "Hung with 0.8428438901901245 score",
+                "Hung with 0.8483135104179382 score",
+                "Hung with 0.8489389419555664 score",
+                "Obama with 0.8764578700065613 score"
+            ],
+            "Face search time": " 0.171661376953125 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938886
+        },
+        {
+            "Reading image time": " 7.554769515991211 ms",
+            "Aligning face time": " 0.1475811004638672 ms",
+            "Prediction time": " 84.54442024230957 ms",
+            "Top5": [
+                "Hung with 0.8248366117477417 score",
+                "Obama with 0.8537077307701111 score",
+                "Hung with 0.8674072623252869 score",
+                "Hung with 0.8709081411361694 score",
+                "Hung with 0.8736618757247925 score"
+            ],
+            "Face search time": " 0.24008750915527344 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938886
+        },
+        {
+            "Reading image time": " 5.7239532470703125 ms",
+            "Aligning face time": " 0.19693374633789062 ms",
+            "Prediction time": " 81.30264282226562 ms",
+            "Top5": [
+                "Hung with 0.8079012632369995 score",
+                "Hung with 0.8447553515434265 score",
+                "Hung with 0.8516008257865906 score",
+                "Hung with 0.8536171317100525 score",
+                "Obama with 0.8891028165817261 score"
+            ],
+            "Face search time": " 0.16689300537109375 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938886
+        },
+        {
+            "Reading image time": " 7.793664932250977 ms",
+            "Aligning face time": " 0.14972686767578125 ms",
+            "Prediction time": " 89.01047706604004 ms",
+            "Top5": [
+                "Hung with 0.837415874004364 score",
+                "Obama with 0.8712708353996277 score",
+                "Hung with 0.8825452923774719 score",
+                "Hung with 0.88291335105896 score",
+                "Hung with 0.8852497339248657 score"
+            ],
+            "Face search time": " 0.1933574676513672 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938886
+        },
+        {
+            "Reading image time": " 7.728815078735352 ms",
+            "Aligning face time": " 0.11587142944335938 ms",
+            "Prediction time": " 99.33924674987793 ms",
+            "Top5": [
+                "Hung with 0.831285834312439 score",
+                "Hung with 0.8703669309616089 score",
+                "Hung with 0.8704995512962341 score",
+                "Hung with 0.8776043653488159 score",
+                "Obama with 0.880894660949707 score"
+            ],
+            "Face search time": " 0.1766681671142578 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938886
+        },
+        {
+            "Reading image time": " 5.269050598144531 ms",
+            "Aligning face time": " 0.1494884490966797 ms",
+            "Prediction time": " 110.1222038269043 ms",
+            "Top5": [
+                "Hung with 0.7446284294128418 score",
+                "Hung with 0.753563404083252 score",
+                "Hung with 0.7747188210487366 score",
+                "Hung with 0.7802301049232483 score",
+                "Son Tung with 0.8841761350631714 score"
+            ],
+            "Face search time": " 0.22220611572265625 ms",
+            "Result": "Hung",
+            "Timestamp": 1666938886
+        },
+        {
+            "Reading image time": " 7.568836212158203 ms",
+            "Aligning face time": " 0.12946128845214844 ms",
+            "Prediction time": " 87.10885047912598 ms",
+            "Top5": [
+                "Hung with 0.7277235984802246 score",
+                "Hung with 0.7285642623901367 score",
+                "Hung with 0.7553232908248901 score",
+                "Hung with 0.7565010190010071 score",
+                "Son Tung with 0.8651827573776245 score"
+            ],
+            "Face search time": " 0.3676414489746094 ms",
+            "Result": "Hung",
+            "Timestamp": 1666938887
+        },
+        {
+            "Reading image time": " 6.356000900268555 ms",
+            "Aligning face time": " 0.2334117889404297 ms",
+            "Prediction time": " 93.8117504119873 ms",
+            "Top5": [
+                "Hung with 0.8007153272628784 score",
+                "Hung with 0.8319494128227234 score",
+                "Hung with 0.8349021077156067 score",
+                "Hung with 0.8381892442703247 score",
+                "Obama with 0.8634176254272461 score"
+            ],
+            "Face search time": " 0.24580955505371094 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938887
+        },
+        {
+            "Reading image time": " 6.595373153686523 ms",
+            "Aligning face time": " 0.17499923706054688 ms",
+            "Prediction time": " 85.14761924743652 ms",
+            "Top5": [
+                "Hung with 0.8193424344062805 score",
+                "Hung with 0.8622429370880127 score",
+                "Hung with 0.867600679397583 score",
+                "Hung with 0.8691585063934326 score",
+                "Obama with 0.8700044751167297 score"
+            ],
+            "Face search time": " 0.23865699768066406 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938887
+        },
+        {
+            "Reading image time": " 4.276275634765625 ms",
+            "Aligning face time": " 0.18143653869628906 ms",
+            "Prediction time": " 82.54051208496094 ms",
+            "Top5": [
+                "Hung with 0.8151289224624634 score",
+                "Hung with 0.8588038086891174 score",
+                "Hung with 0.8616130352020264 score",
+                "Hung with 0.8616895079612732 score",
+                "Obama with 0.8779202103614807 score"
+            ],
+            "Face search time": " 0.22864341735839844 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938887
+        },
+        {
+            "Reading image time": " 5.563020706176758 ms",
+            "Aligning face time": " 0.17142295837402344 ms",
+            "Prediction time": " 81.59637451171875 ms",
+            "Top5": [
+                "Hung with 0.7999110221862793 score",
+                "Hung with 0.8350131511688232 score",
+                "Hung with 0.8376865983009338 score",
+                "Hung with 0.8475928902626038 score",
+                "Obama with 0.888732373714447 score"
+            ],
+            "Face search time": " 0.18405914306640625 ms",
+            "Result": "Hung",
+            "Timestamp": 1666938887
+        },
+        {
+            "Reading image time": " 7.427215576171875 ms",
+            "Aligning face time": " 0.17881393432617188 ms",
+            "Prediction time": " 84.82193946838379 ms",
+            "Top5": [
+                "Hung with 0.7346563935279846 score",
+                "Hung with 0.7637280225753784 score",
+                "Hung with 0.7650076150894165 score",
+                "Hung with 0.7729250192642212 score",
+                "Son Tung with 0.8874178528785706 score"
+            ],
+            "Face search time": " 0.1933574676513672 ms",
+            "Result": "Hung",
+            "Timestamp": 1666938887
+        },
+        {
+            "Reading image time": " 6.874322891235352 ms",
+            "Aligning face time": " 0.16021728515625 ms",
+            "Prediction time": " 109.99035835266113 ms",
+            "Top5": [
+                "Hung with 0.769530177116394 score",
+                "Hung with 0.7888391017913818 score",
+                "Hung with 0.7923474311828613 score",
+                "Hung with 0.7927381992340088 score",
+                "Obama with 0.8620697259902954 score"
+            ],
+            "Face search time": " 0.2837181091308594 ms",
+            "Result": "Hung",
+            "Timestamp": 1666938887
+        },
+        {
+            "Reading image time": " 7.1582794189453125 ms",
+            "Aligning face time": " 0.16021728515625 ms",
+            "Prediction time": " 102.00715065002441 ms",
+            "Top5": [
+                "Hung with 0.7277235984802246 score",
+                "Hung with 0.7285642623901367 score",
+                "Hung with 0.7553232908248901 score",
+                "Hung with 0.7565010190010071 score",
+                "Son Tung with 0.8651827573776245 score"
+            ],
+            "Face search time": " 0.20933151245117188 ms",
+            "Result": "Hung",
+            "Timestamp": 1666938887
+        },
+        {
+            "Reading image time": " 7.16090202331543 ms",
+            "Aligning face time": " 0.23865699768066406 ms",
+            "Prediction time": " 89.72454071044922 ms",
+            "Top5": [
+                "Hung with 0.8007153272628784 score",
+                "Hung with 0.8319494128227234 score",
+                "Hung with 0.8349021077156067 score",
+                "Hung with 0.8381892442703247 score",
+                "Obama with 0.8634176254272461 score"
+            ],
+            "Face search time": " 0.23055076599121094 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938888
+        },
+        {
+            "Reading image time": " 5.545377731323242 ms",
+            "Aligning face time": " 0.3578662872314453 ms",
+            "Prediction time": " 114.54963684082031 ms",
+            "Top5": [
+                "Hung with 0.7446284294128418 score",
+                "Hung with 0.753563404083252 score",
+                "Hung with 0.7747188210487366 score",
+                "Hung with 0.7802301049232483 score",
+                "Son Tung with 0.8841761350631714 score"
+            ],
+            "Face search time": " 0.18525123596191406 ms",
+            "Result": "Hung",
+            "Timestamp": 1666938888
+        },
+        {
+            "Reading image time": " 5.530357360839844 ms",
+            "Aligning face time": " 0.30612945556640625 ms",
+            "Prediction time": " 119.79913711547852 ms",
+            "Top5": [
+                "Hung with 0.8841946125030518 score",
+                "Son Tung with 0.8885879516601562 score",
+                "Hung with 0.9006884694099426 score",
+                "Son Tung with 0.9062404632568359 score",
+                "Son Tung with 0.9160807728767395 score"
+            ],
+            "Face search time": " 0.15664100646972656 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938888
+        },
+        {
+            "Reading image time": " 6.830930709838867 ms",
+            "Aligning face time": " 0.11801719665527344 ms",
+            "Prediction time": " 81.46119117736816 ms",
+            "Top5": [
+                "Hung with 0.8859694600105286 score",
+                "Son Tung with 0.8934852480888367 score",
+                "Hung with 0.9076037406921387 score",
+                "Son Tung with 0.9174227714538574 score",
+                "Hung with 0.9241852760314941 score"
+            ],
+            "Face search time": " 0.23293495178222656 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938888
+        },
+        {
+            "Reading image time": " 5.157470703125 ms",
+            "Aligning face time": " 0.15783309936523438 ms",
+            "Prediction time": " 82.20076560974121 ms",
+            "Top5": [
+                "Hung with 0.8940930962562561 score",
+                "Son Tung with 0.923180341720581 score",
+                "Son Tung with 0.9299013614654541 score",
+                "Hung with 0.9337161779403687 score",
+                "Hung with 0.9340233206748962 score"
+            ],
+            "Face search time": " 0.22125244140625 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938888
+        },
+        {
+            "Reading image time": " 4.472017288208008 ms",
+            "Aligning face time": " 0.22673606872558594 ms",
+            "Prediction time": " 82.13615417480469 ms",
+            "Top5": [
+                "Son Tung with 0.8598354458808899 score",
+                "Son Tung with 0.8691121339797974 score",
+                "Son Tung with 0.8718226552009583 score",
+                "Hung with 0.8795844912528992 score",
+                "Hung with 0.8880795836448669 score"
+            ],
+            "Face search time": " 0.22149085998535156 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938888
+        },
+        {
+            "Reading image time": " 3.6156177520751953 ms",
+            "Aligning face time": " 0.16617774963378906 ms",
+            "Prediction time": " 80.02996444702148 ms",
+            "Top5": [
+                "Son Tung with 0.875978410243988 score",
+                "Son Tung with 0.8791369795799255 score",
+                "Hung with 0.8848841190338135 score",
+                "Hung with 0.9048932194709778 score",
+                "Son Tung with 0.9124179482460022 score"
+            ],
+            "Face search time": " 0.19049644470214844 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938888
+        },
+        {
+            "Reading image time": " 6.847858428955078 ms",
+            "Aligning face time": " 0.14925003051757812 ms",
+            "Prediction time": " 86.63320541381836 ms",
+            "Top5": [
+                "Hung with 0.8921465873718262 score",
+                "Son Tung with 0.8983328938484192 score",
+                "Hung with 0.9060229063034058 score",
+                "Hung with 0.915120542049408 score",
+                "Son Tung with 0.9209100008010864 score"
+            ],
+            "Face search time": " 0.17070770263671875 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938888
+        },
+        {
+            "Reading image time": " 4.797220230102539 ms",
+            "Aligning face time": " 0.171661376953125 ms",
+            "Prediction time": " 84.01060104370117 ms",
+            "Top5": [
+                "Son Tung with 0.8561103940010071 score",
+                "Son Tung with 0.8676280975341797 score",
+                "Hung with 0.8894003033638 score",
+                "Son Tung with 0.8947644233703613 score",
+                "Hung with 0.8968946933746338 score"
+            ],
+            "Face search time": " 0.1704692840576172 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938888
+        },
+        {
+            "Reading image time": " 3.4275054931640625 ms",
+            "Aligning face time": " 0.1327991485595703 ms",
+            "Prediction time": " 85.4184627532959 ms",
+            "Top5": [
+                "Hung with 0.8630011081695557 score",
+                "Son Tung with 0.8769948482513428 score",
+                "Obama with 0.8809322118759155 score",
+                "Hung with 0.8832283020019531 score",
+                "Son Tung with 0.9030625224113464 score"
+            ],
+            "Face search time": " 0.22339820861816406 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938889
+        },
+        {
+            "Reading image time": " 6.837368011474609 ms",
+            "Aligning face time": " 0.2627372741699219 ms",
+            "Prediction time": " 123.2905387878418 ms",
+            "Top5": [
+                "Hung with 0.8426938056945801 score",
+                "Son Tung with 0.8701026439666748 score",
+                "Obama with 0.8775303363800049 score",
+                "Son Tung with 0.8805199861526489 score",
+                "Son Tung with 0.8842770457267761 score"
+            ],
+            "Face search time": " 0.2410411834716797 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938892
+        },
+        {
+            "Reading image time": " 6.644248962402344 ms",
+            "Aligning face time": " 0.19860267639160156 ms",
+            "Prediction time": " 88.14287185668945 ms",
+            "Top5": [
+                "Hung with 0.8382322788238525 score",
+                "Son Tung with 0.8711639642715454 score",
+                "Obama with 0.874313473701477 score",
+                "Son Tung with 0.8836954236030579 score",
+                "Son Tung with 0.8838490843772888 score"
+            ],
+            "Face search time": " 0.2014636993408203 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938893
+        },
+        {
+            "Reading image time": " 5.264759063720703 ms",
+            "Aligning face time": " 0.26535987854003906 ms",
+            "Prediction time": " 84.34915542602539 ms",
+            "Top5": [
+                "Hung with 0.8601274490356445 score",
+                "Son Tung with 0.8710691928863525 score",
+                "Obama with 0.8716413378715515 score",
+                "Son Tung with 0.8718615770339966 score",
+                "Son Tung with 0.8944697380065918 score"
+            ],
+            "Face search time": " 0.22268295288085938 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938893
+        },
+        {
+            "Reading image time": " 5.2547454833984375 ms",
+            "Aligning face time": " 0.19621849060058594 ms",
+            "Prediction time": " 85.00838279724121 ms",
+            "Top5": [
+                "Hung with 0.8493095636367798 score",
+                "Son Tung with 0.8599790334701538 score",
+                "Son Tung with 0.876348614692688 score",
+                "Son Tung with 0.880240797996521 score",
+                "Obama with 0.8922228217124939 score"
+            ],
+            "Face search time": " 0.22101402282714844 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938893
+        },
+        {
+            "Reading image time": " 5.158424377441406 ms",
+            "Aligning face time": " 0.24056434631347656 ms",
+            "Prediction time": " 82.5505256652832 ms",
+            "Top5": [
+                "Hung with 0.8614509105682373 score",
+                "Son Tung with 0.8711079359054565 score",
+                "Obama with 0.8822081089019775 score",
+                "Son Tung with 0.8835254907608032 score",
+                "Son Tung with 0.8948705792427063 score"
+            ],
+            "Face search time": " 0.21457672119140625 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938893
+        },
+        {
+            "Reading image time": " 12.144327163696289 ms",
+            "Aligning face time": " 0.20194053649902344 ms",
+            "Prediction time": " 100.91686248779297 ms",
+            "Top5": [
+                "Hung with 0.8199964761734009 score",
+                "Son Tung with 0.8604570031166077 score",
+                "Hung with 0.8745877742767334 score",
+                "Son Tung with 0.8755155801773071 score",
+                "Hung with 0.8777405023574829 score"
+            ],
+            "Face search time": " 0.24652481079101562 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938895
+        },
+        {
+            "Reading image time": " 11.030197143554688 ms",
+            "Aligning face time": " 0.1480579376220703 ms",
+            "Prediction time": " 82.84974098205566 ms",
+            "Top5": [
+                "Hung with 0.8199964761734009 score",
+                "Son Tung with 0.8604570031166077 score",
+                "Hung with 0.8745877742767334 score",
+                "Son Tung with 0.8755155801773071 score",
+                "Hung with 0.8777405023574829 score"
+            ],
+            "Face search time": " 0.22292137145996094 ms",
+            "Result": "Unknown",
+            "Timestamp": 1666938895
+        }
+    ]
+}
