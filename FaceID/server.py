@@ -178,18 +178,20 @@ async def prediction(obj: JSONObject):
     response["Saving logs time"] = " {} ms".format((end-start)*1000)
     total_end = time.time()
     response["Total time"] = " {} ms".format((total_end-total_start)*1000)
+
+    if most_name != "Unknown":
+        user_base_img = os.path.join('database/', most_name, most_name+'_0.jpg')
+        image =  Image.open(user_base_img)
+        buffered = io.BytesIO()
+        image.save(buffered, format="JPEG")
+        img_str = base64.b64encode(buffered.getvalue()).decode("utf-8")
+        response["user_image"] = img_str
+    else:
+        response["user_image"] = ""
     return ORJSONResponse(response)
 
 
-@app.post("/get_info")
-def get_info(name:str):
-    db_path = 'database/'
-    user_base_img = os.path.join(db_path, name, name+'_0.jpg')
-    if not os.path.isfile(user_base_img):
-        user_base_img = os.path.join(db_path, name, name+'_0.jpeg')
-
-    return 
-
+    
 
 @app.post("/register")
 def register(name:str, file: UploadFile = File(...)):
