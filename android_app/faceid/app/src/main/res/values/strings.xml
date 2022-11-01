@@ -3,4 +3,15 @@
     <string name="load_video" translatable="false">Load Video</string>
     <string name="start_camera" translatable="false">Start Camera</string>
     <string name="instruction" translatable="false">Please press any button above to start</string>
+    <string name="person_information">Personal Information</string>
+    <string name="user_face">User Face</string>
+    <string name="back">Back</string>
+    <string name="register_here">Or register here :)</string>
+    <string name="registering">Registering new user</string>
+    <string name="register_instruction"><![CDATA[Please type your name and upload >= 3 images of ur face]]></string>
+    <string name="done">Done</string>
+    <string name="username">Username</string>
+    <string name="upload_your_image">Upload your image</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
 </resources>

@@ -50,6 +50,7 @@ import java.nio.FloatBuffer;
 import java.nio.IntBuffer;
 import java.util.HashMap;
 import java.util.Calendar;
+import java.util.Objects;
 
 /** A custom implementation of {@link ResultGlRenderer} to render {@link FaceDetectionResult}. */
 public class FaceDetectionResultGlRenderer implements ResultGlRenderer<FaceDetectionResult> {
@@ -78,12 +79,13 @@ public class FaceDetectionResultGlRenderer implements ResultGlRenderer<FaceDetec
     private int pointSizeHandle;
     private int projectionMatrixHandle;
     private int colorHandle;
-    private String requested_url = "http://6cc1-113-22-30-231.ngrok.io/predict";
+    private String requested_url = "http://03e5-1-52-129-151.ngrok.io/predict";
 
     private RequestQueue queue;
     private Context ctx;
     private int cam_width, cam_height;
-
+    private long counter  = System.currentTimeMillis();
+    private boolean detected = false;
     private int loadShader(int type, String shaderCode) {
         int shader = GLES20.glCreateShader(type);
         GLES20.glShaderSource(shader, shaderCode);
@@ -112,6 +114,8 @@ public class FaceDetectionResultGlRenderer implements ResultGlRenderer<FaceDetec
 
     @Override
     public void renderResult(FaceDetectionResult result, float[] projectionMatrix) {
+        long t = System.currentTimeMillis();
+        long elapsed = t - counter;
         if (result == null) {
             return;
         }
@@ -123,20 +127,23 @@ public class FaceDetectionResultGlRenderer implements ResultGlRenderer<FaceDetec
 
             Detection detection_result = result.multiFaceDetections().get(i);
             float score = result.multiFaceDetections().get(i).getScore(0);
-            if (score > 0.95){
-                float xmin = detection_result.getLocationData().getRelativeBoundingBox().getXmin();
-                float ymin = detection_result.getLocationData().getRelativeBoundingBox().getYmin();
-                float width = detection_result.getLocationData().getRelativeBoundingBox().getWidth();
-                float height = detection_result.getLocationData().getRelativeBoundingBox().getHeight();
-                float[] points = new float[FaceKeypoint.NUM_KEY_POINTS * 2];
-                for (int idx = 0; idx < FaceKeypoint.NUM_KEY_POINTS; ++idx) {
-                    points[2 * idx] = detection_result.getLocationData().getRelativeKeypoints(idx).getX();
-                    points[2 * idx + 1] = detection_result.getLocationData().getRelativeKeypoints(idx).getY();
-                }
-                try {
-                    cutFrame(xmin, ymin, width, height, this.cam_width, this.cam_height, points, requested_url);
-                } catch (IOException e) {
-                    e.printStackTrace();
+            if (score >= 0.9) {
+                if (elapsed >= 500) {
+                    counter = System.currentTimeMillis();
+                    float xmin = detection_result.getLocationData().getRelativeBoundingBox().getXmin();
+                    float ymin = detection_result.getLocationData().getRelativeBoundingBox().getYmin();
+                    float width = detection_result.getLocationData().getRelativeBoundingBox().getWidth();
+                    float height = detection_result.getLocationData().getRelativeBoundingBox().getHeight();
+                    float[] points = new float[FaceKeypoint.NUM_KEY_POINTS * 2];
+                    for (int idx = 0; idx < FaceKeypoint.NUM_KEY_POINTS; ++idx) {
+                        points[2 * idx] = detection_result.getLocationData().getRelativeKeypoints(idx).getX();
+                        points[2 * idx + 1] = detection_result.getLocationData().getRelativeKeypoints(idx).getY();
+                    }
+                    try {
+                        cutFrame(xmin, ymin, width, height, this.cam_width, this.cam_height, points, requested_url);
+                    } catch (IOException e) {
+                        e.printStackTrace();
+                    }
                 }
             }
             drawDetection(detection_result);
@@ -288,17 +295,35 @@ public class FaceDetectionResultGlRenderer implements ResultGlRenderer<FaceDetec
                     @Override
                     public void onResponse(JSONObject response) {
                         String res = null;
+                        if (detected){
+                            queue.cancelAll(new RequestQueue.RequestFilter() {
+                                @Override
+                                public boolean apply(Request<?> request) {
+                                    return true;
+                                }
+                            });
+                            return;
+                        }
                         try {
                             res = response.getString("Result");
                         }
                         catch (JSONException e){
                             e.printStackTrace();
                         }
-                        Toast.makeText(ctx.getApplicationContext(), "Hello "+res, Toast.LENGTH_LONG).show();
-                        Log.i(TAG, "Result: " + res);
+                        if (!Objects.equals(res, "Unknown")){
+                            detected = true;
+                            Toast.makeText(ctx.getApplicationContext(), "Hello " + res + ". Welcome back :D", Toast.LENGTH_LONG).show();
+                            Intent myIntent = new Intent(ctx, InfoActivity.class);
+                            try {
+                                myIntent.putExtra("user_image", response.getString("user_image"));
+                                myIntent.putExtra("user_name", res);
+                            } catch (JSONException e) {
+                                e.printStackTrace();
+                            }
+                            ctx.startActivity(myIntent);
+                        }
+                        Log.i(TAG, res);
 
-                        Intent myIntent = new Intent(ctx, InfoActivity.class);
-                        ctx.startActivity(myIntent);
                     }
                 }, new Response.ErrorListener() {
                     @SuppressLint("LongLogTag")
@@ -309,7 +334,8 @@ public class FaceDetectionResultGlRenderer implements ResultGlRenderer<FaceDetec
                         Log.e("Volly Error", error.toString());
                     }
                 });
-                queue.add(jsonObjectRequest);
+        jsonObjectRequest.setTag(detected);
+        queue.add(jsonObjectRequest);
     }
 
 }

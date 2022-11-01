@@ -1,7 +1,7 @@
 import base64
 from genericpath import isfile
 import os
-os.environ["CUDA_VISIBLE_DEVICES"] = "3,4"
+os.environ["CUDA_VISIBLE_DEVICES"] = "7"
 import sys
 from torch.nn import Module
 from inference import load_pretrained_model, to_input
@@ -89,13 +89,19 @@ def update_json_logs(new_data, key, filename='logs/logs.json'):
 
 
 
-class JSONObject(BaseModel):
+class JSONObjectPredict(BaseModel):
     file_name: str
     image: str
     keypoints_x1 : int
     keypoints_y1 : int
     keypoints_x2 : int
     keypoints_y2 : int
+
+class JSONObjectRegister(BaseModel):
+    user_name: str
+    first_img: str
+    sec_img: str
+    third_img: str
 
     
 @app.get("/")
@@ -105,7 +111,7 @@ def home():
 
 
 @app.post("/predict") 
-async def prediction(obj: JSONObject):
+async def prediction(obj: JSONObjectPredict):
     total_start = time.time()
     # Initialization
     global idx_mapping_name, t, model
@@ -194,59 +200,53 @@ async def prediction(obj: JSONObject):
     
 
 @app.post("/register")
-def register(name:str, file: UploadFile = File(...)):
+def register(obj: JSONObjectRegister):
     global idx_mapping_name, t, model, current_no_img
+    existed = False
     del t
     t = hnswlib.Index(space='cosine', dim=EMBEDDING_SIZE)
-    # 1. Check valid file extension
-    filename = file.filename
-    fileExtension = filename.split(".")[-1] in ("jpg", "jpeg", "png")
-    if not fileExtension:
-        raise HTTPException(status_code=415, detail="Unsupported file provided.")
-
-
-    # 2. TRANSFORM RAW IMAGE INTO numpy image
-    # Read image as a stream of bytes
-    image_stream = io.BytesIO(file.file.read())
-    
-    # Start the stream from the beginning (position zero)
-    image_stream.seek(0)
-    
-    # Write the stream of bytes into a numpy array
-    file_bytes = np.asarray(bytearray(image_stream.read()), dtype=np.uint8)
-
-    image = cv2.imdecode(file_bytes, cv2.IMREAD_COLOR)
-
-    # 3. Save img to database
+    obj_dict = obj.dict()
+    name = obj_dict["user_name"]
     directory = os.path.join('database', name)
     file_path = None
     if os.path.isdir(directory):
         no_img = len(os.listdir(directory))
         file_path = os.path.join(directory, name+"_"+str(no_img) + '.jpg')
-        cv2.imwrite(file_path, image)
+        existed = True
     else:
         os.mkdir(directory)
         file_path = os.path.join(directory, name+"_0.jpg")
+
+    t.load_index("ANN/db.bin", max_elements = current_no_img+3)
+    img_lst = ["first_img", "sec_img", "third_img"]
+    for img_str in img_lst:
+        # Write the stream of bytes into a numpy array
+        decoded_img = base64.b64decode(obj_dict[img_str])
+        image_stream = io.BytesIO(decoded_img)
+        # Start the stream from the beginning (position zero)
+        image_stream.seek(0)
+        # Write the stream of bytes into a numpy array
+        file_bytes = np.asarray(bytearray(image_stream.read()), dtype=np.uint8)
+
+        image = cv2.imdecode(file_bytes, cv2.IMREAD_COLOR)
         cv2.imwrite(file_path, image)
+        aligned_rgb_img = align.get_aligned_face(image_path=file_path)
+        bgr_tensor_input = to_input(aligned_rgb_img)
+        feature, _ = model(bgr_tensor_input)
+        feature = feature.detach().numpy()
+        t.add_items(feature, current_no_img)
+        idx_mapping_name[str(current_no_img)] = name
+        current_no_img += 1
 
-    aligned_rgb_img = align.get_aligned_face(image_path=file_path)
-    bgr_tensor_input = to_input(aligned_rgb_img)
-    feature, _ = model(bgr_tensor_input)
-    feature = feature.detach().numpy()
-    t.load_index("ANN/db.bin", max_elements = current_no_img+1)
-    t.add_items(feature, current_no_img)
-    print(current_no_img)
-    idx_mapping_name[str(current_no_img)] = name
-
-    current_no_img += 1
-
+        
     with open("ANN/idx_mapping_name.json", "w") as outfile:
-        json.dump(idx_mapping_name, outfile)
+            json.dump(idx_mapping_name, outfile)
+            
     index_path='ANN/db.bin'
     print("Saving index to '%s'" % index_path)
     t.save_index(index_path)
-
-    return PlainTextResponse(f"Successfully add {filename} to database/{name}/")
+    
+    return ORJSONResponse({"Status": "Success", "Name": f"{name}", "Existed": existed})
 
     
 

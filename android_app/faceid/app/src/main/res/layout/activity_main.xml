@@ -4,37 +4,64 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical">
+
     <LinearLayout
         android:id="@+id/buttons"
+        style="?android:attr/buttonBarStyle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        style="?android:attr/buttonBarStyle" android:gravity="center"
+        android:gravity="center"
         android:orientation="horizontal">
-        <Button
-            android:id="@+id/button_load_picture"
-            android:layout_width="wrap_content"
-            style="?android:attr/buttonBarButtonStyle" android:layout_height="wrap_content"
-            android:text="@string/load_picture" />
+
         <Button
             android:id="@+id/button_load_video"
+            style="?android:attr/buttonBarButtonStyle"
             android:layout_width="wrap_content"
-            style="?android:attr/buttonBarButtonStyle" android:layout_height="wrap_content"
+            android:layout_height="wrap_content"
             android:text="@string/load_video" />
+
         <Button
             android:id="@+id/button_start_camera"
+            style="?android:attr/buttonBarButtonStyle"
             android:layout_width="wrap_content"
-            style="?android:attr/buttonBarButtonStyle" android:layout_height="wrap_content"
+            android:layout_height="wrap_content"
             android:text="@string/start_camera" />
+
+        <Button
+            android:id="@+id/button_load_picture"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/load_picture" />
     </LinearLayout>
     <FrameLayout
         android:id="@+id/preview_display_layout"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
-        <TextView
-            android:id="@+id/no_view"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:gravity="center"
-            android:text="@string/instruction" />
+        android:layout_gravity="center"
+        android:layout_height="wrap_content">
+
     </FrameLayout>
+
+    <TextView
+        android:id="@+id/no_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/instruction" />
+
+    <Button
+        android:id="@+id/register"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        style="?android:attr/buttonBarButtonStyle"
+        android:text="@string/register_here" />
+
+    <pl.droidsonroids.gif.GifImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#fff"
+        android:src="@drawable/huggingface" />
+
+
 </LinearLayout>

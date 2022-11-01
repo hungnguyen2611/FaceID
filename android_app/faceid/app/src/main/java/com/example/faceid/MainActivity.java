@@ -71,6 +71,16 @@ public class MainActivity extends AppCompatActivity {
         setupStaticImageDemoUiComponents();
         setupVideoDemoUiComponents();
         setupLiveDemoUiComponents();
+        setupRegisterUiComponents();
+    }
+
+    private void setupRegisterUiComponents() {
+        Button register_btn = findViewById(R.id.register);
+        register_btn.setOnClickListener(v -> {
+            // Switch to register's activity
+            Intent registerIntent = new Intent(this, RegisterActivity.class);
+            startActivity(registerIntent);
+        });
     }
 
     @Override
@@ -409,4 +419,6 @@ public class MainActivity extends AppCompatActivity {
                     format);
         }
     }
+
+
 }
